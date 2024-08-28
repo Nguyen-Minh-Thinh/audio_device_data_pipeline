@@ -54,8 +54,9 @@ This project automates the ETL process using Airflow and Docker. It involves scr
 
 ## Dashboard
 **Note:** To connect Power BI to ClickHouse, install the ClickHouse ODBC drivers and follow the instructions provided in [this guide](https://medium.com/@annu.nmit/connecting-to-clickhouse-database-server-from-power-bi-864e950d83e2).
-
 ### Updating...
+![Dash_board_1](image/dash_board1.png)
+
 
 ## Documentation
 - https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f  

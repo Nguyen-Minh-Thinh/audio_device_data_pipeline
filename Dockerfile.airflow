@@ -1,0 +1,20 @@
+FROM apache/airflow:slim-latest-python3.11
+
+# Default directory to work in docker container
+WORKDIR /opt/airflow
+
+# Copy requirements.txt file from local host to default directory of container
+# . is the present directory (/opt/airflow)
+COPY requirements.txt .
+
+
+RUN pip install -r requirements.txt
+
+
+
+
+
+
+
+
+

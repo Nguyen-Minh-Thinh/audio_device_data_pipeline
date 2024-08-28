@@ -1,0 +1,226 @@
+rank,value_rating,model,price_msrp,signature,tone_grade,technical_grade,driver_type
+S,-1,Sennheiser HE-1,59000,Harman neutral,S+,S,Electrostatic
+S,1,Hifiman Susvara,6000,Neutral,S,S,Planar 
+S-,-1,Hifiman HE1000(V2),3000,Neutral,S,S-,Planar
+S-,1,Focal Utopia,4000,Neutral,S,S-,Dynamic
+A+,-1,Focal Clear,-1,Warm neutral,S-,A+,Dynamic
+A+,-1,Hifiman HE1000se,3500,Bright neutral,A+,S-,Planar
+A+,1,Hifiman Arya,1600,Bright neutral,A+,S-,Planar
+A+,-1,Hifiman Shangri-La Jr,8000,Bright neutral,A,S,Electrostatic
+A,-1,Hifiman Jade II,2500,Bass-rolled neutral,A,S-,Electrostatic
+A,-1,Stax SR-007(Mk2.5),2100,Warm neutral,A-,S+,Electrostatic
+A,1,HEDDphone,1900,Warm neutral,A,A+,AMT
+A,2,Aurorus Borealis,900,Neutral,A+,A,Dynamic
+A,1,Nectar Hive,600,Bright neutral,A,A,Electrostatic
+A-,-1,Hifiman Edition X V2,1300,Neutral,S,B+,Planar
+A-,-1,Stax SR-Lambda Pro,700,Neutral,B+,S-,Electrostatic
+A-,2,Sennheiser HD600,400,Neutral,S-,B+,Dynamic
+A-,2,Audio Technica ATH-R70x,350,Warm neutral,A+,B+,Dynamic
+B+,-1,Stax SR-404Stax SR-404 Limited,500,Neutral,B,S-,Electrostatic
+B+,-1,Stax SR-507,830,Neutral,B,S-,Electrostatic
+B+,-1,Hifiman HE6,1300,Bright neutral,B,S-,Planar
+B+,-1,Stax SR-4070,1700,Mid-centric,B,S-,Electrostatic
+B+,-1,ZMF Auteur(Teak)(pref. lambskin Auteur pads),1600,Bright neutral,A,B+,Dynamic
+B+,1,Hifiman Ananda,700,Neutral,S-,B,Planar
+B+,3,AKG K612 Pro,200,Neutral,S-,B,Dynamic
+B+,2,Hifiman Sundara,350,Neutral,A+,B,Planar
+B+,3,Sennheiser HD650/HD6XX,220,Warm neutral,A+,B,Dynamic
+B+,2,Moondrop Para,300,Neutral,A+,B,Planar
+B+,1,Fostex TH610,600,Mild V-shape,B+,A-,Dynamic
+B+,1,E-MU Teak,400,V-shaped,B+,A-,Dynamic
+B+,-1,Sennheiser HD800/HD800S,1700,Bright neutral,B-,S,Dynamic
+B+,-1,Beyerdynamic T70,600,Bright neutral,A,B,Dynamic
+B+,-1,MrSpeakers Ether C,-1,DF-neutral,A,B,Planar
+B+,1,Shure SRH1540,500,Neutral with bass boost,A,B,Dynamic
+B+,2,AKG K702,350,Mid-centric,A,B,Dynamic
+B+,-1,Stax SR-L500,792,Neutral,B-,S-,Electrostatic
+B+,3,Shure SRH840,150,V-shaped,A+,B-,Dynamic
+B,-1,Stax SR-L300,430,Neutral,B,A-,Electrostatic
+B,-1,ZMF Aeolus(Pref. suede Universe pads),1200,Bright neutral,B,A-,Dynamic
+B,1,AKG K701,450,Bright neutral,A-,B,Dynamic
+B,-1,Hifiman HE6se,1100,Neutral,B-,A,Planar
+B,-1,Hifiman HE560(V1),950,Neutral,B-,A,Planar
+B,-1,Final D8000 Pro,4300,Bright,B-,A,Planar
+B,-1,Final Audio D8000,4000,Bright,B-,A,Planar
+B,-1,RAAL-requisite SR1a,4000,Neutral,B-,A,Ribbon
+B,1,Sennheiser HD560S,200,Neutral,A,B-,Dynamic
+B,2,AKG K371,150,Harman,A,B-,Dynamic
+B,-1,Focal Stellia,3000,Neutral with bass boost,C+,S-,Dynamic
+B,-1,Stax SR-L700,1570,Neutral,C+,S-,Electrostatic
+B,-1,ZMF Verite Closed(Hybrid Universe pads),2500,Neutral with bass boost,C+,S-,Dynamic
+B,-1,Audio Technica ATH-ADX5000,2000,Bright neutral,C+,S-,Dynamic
+B,-1,Stax SR-L300 Limited,900,Neutral,C+,S-,Electrostatic
+B,1,Hifiman Deva,300,Neutral,S-,C+,Planar
+B,3,Shure SRH440,100,Harman,S-,C+,Dynamic
+B,-1,Sony MDR-SA5000(w/ AliExpress replacement pads),400,Bass-rolled neutral,B,B+,Dynamic
+B,-1,Hifiman HE5,600,Neutral,B+,B,Planar
+B,-1,Denon AH-D5000,480,V-shaped,B,B+,Dynamic
+B,-1,Kennerton Odin,3600,Warm neutral,B+,B,Planar
+B,-1,Kennerton Thror,3600,Warm neutral,B+,B,Planar
+B,-1,Focal Radiance,1300,Harman neutral,B+,B,Dynamic
+B,1,Sennheiser HD660S,400,Warm neutral,B,B+,Dynamic
+B,1,Beyerdynamic DT880 Pro(32Ω),350,Warm V-shape,B+,B,Dynamic
+B,1,HarmonicDyne Zeus,350,Warm,B+,B,Dynamic
+B,-1,Focal Clear Mg,1500,Warm neutral,B-,A-,Dynamic
+B,-1,Audeze LCD-XC,1300,Balanced,B-,A-,Planar
+B,-1,Focal Elear,1000,Warm neutral,B-,A-,Dynamic
+B,1,Sennheiser Momentum 3 Wireless,350,U-shaped,A-,B-,Dynamic
+B,-1,Meze Empyrean,3000,Warm,B,B,Planar
+B,1,Beyerdynamic DT990 Pro(250Ω),200,V-shaped,B,B,Dynamic
+B,1,Beyerdynamic TYGR 300 R,200,V-shaped,B,B,Dynamic
+B,2,Hifiman HE400i (2020),170,Neutral,B,B,Planar
+B-,-1,Hifiman HE500(w/ FocusPad-A),900,Warm neutral,B+,B-,Planar
+B-,1,Sivga Phoenix,300,Warm neutral,B+,B-,Dynamic
+B-,-1,Audeze LCD-24,3500,Warm neutral,C,S-,Planar 
+B-,-1,Abyss Diana PhiAbyss Diana V2,3000,Warm,C,A+,Planar
+B-,-1,Audeze LCD-X (2021),1200,Warm neutral,C,A+,Planar
+B-,-1,Denon AH-D5200,700,Warm neutral,B-,B,Dynamic
+B-,-1,Beyerdynamic DT1990 Pro(Balanced pads),600,Warm V-shape,B-,B,Dynamic
+B-,1,Audio Technica ATH-M70x,300,Neutral,B,B-,Dynamic
+B-,1,Sennheiser HD25 Plus,200,U-shaped,B,B-,Dynamic
+B-,-1,Audeze LCD-GX,900,Warm neutral,C,A,Planar
+B-,-1,Audeze LCD-2 Closed-back,900,Warm V-shape,C,A,Planar
+B-,-1,Audeze LCD-2 Classic,800,Warm,C,A,Planar
+B-,1,BLON B20,450,Warm neutral,A,C,Planar
+B-,1,Massdrop x Koss ESP/95X,450,Mid-centric,C,A,Electrostatic
+B-,3,Koss KSC75,20,Bass-rolled neutral,A,C,Dynamic
+B-,-1,Apple AirPods Max,550,U-shaped,B+,C+,Dynamic
+B-,1,ASTRO A40 TR,150,Warm V-shape,B+,C+,Dynamic
+B-,-1,ZMF Verite(Pref. lambskin Verite pads),2500,Warm,C-,S-,Dynamic
+B-,-1,ES Lab ES-1a,2050,Bright neutral,C-,S-,Electrostatic
+B-,1,Audio Technica ATH-M40x,100,Neutral with bass boost,A-,C,Dynamic
+B-,1,Moondrop Void,200,Warm neutral,A-,C,Dynamic
+B-,-1,Fostex TR80,220,Neutral with bass boost,A+,C-,Dynamic
+B-,1,E-MU Walnut,100,Balanced,B-,B-,Dynamic
+C+,-1,Acoustic Research AR-H1,600,Neutral,C+,B,Dynamic
+C+,-1,Beyerdynamic T5p (1st Gen),750,V-shaped,C+,B,Dynamic
+C+,-1,Timsok TS-1024,2000,Warm V-shape,C+,B,Planar
+C+,-1,Sendy Aiva,600,Warm neutral,B,C+,Planar
+C+,-1,AKG K712 Pro,500,Warm,C+,B,Dynamic
+C+,1,Sennheiser HD599,200,V-shaped,B,C+,Dynamic
+C+,1,Massdrop x AKG K7XX,200,Warm,C+,B,Dynamic
+C+,1,HarmonicDyne Helios,180,V-shaped,B,C+,Dynamic
+C+,-1,Fostex TH7,80,Neutral,B+,C,Dynamic
+C+,-1,Sony MDR-Z1R,1800,V-shaped,C,B+,Dynamic
+C+,-1,Fostex TH900,1600,V-shaped,C-,A,Dynamic
+C+,-1,DCA Aeon 2 Closed,900,U-shaped,B+,C,Planar
+C+,-1,Stax SR-009/SR-009S,4325,Bright neutral,D+,S+,Electrostatic
+C+,-1,Audeze LCD-4,4000,Warm,D+,S,Planar
+C+,-1,Sony MDR-MA900,200,Bass-rolled neutral,C+,B-,Dynamic
+C+,-1,Fostex TH909,1800,V-shaped,C-,A-,Dynamic
+C+,-1,Neumann NDH 20,500,Neutral with bass boost,C+,B-,Dynamic
+C+,1,1MORE MK801,80,Neutral with bass boost,A-,C-,Dynamic
+C+,-1,Rosson RAD-0,2600,Warm neutral,C,B,Planar
+C+,-1,Sony MDR-1AM2,300,Warm U-shape,B,C,Dynamic
+C+,1,Sennheiser HD579,200,Warm neutral,B,C,Dynamic
+C+,-1,Abyss AB-1266 Phi CCAbyss AB-1266 Phi,-1,Balanced,D+,A+,Planar
+C+,-1,Audeze LCD-MX4,3000,Warm,D+,A+,Planar
+C+,-1,Hifiman HE5SE,700,V-shaped,D+,A,Planar
+C+,-1,Sony MDR-CD380,50,DF-neutral,C+,C+,Dynamic
+C,-1,Stax SR-X Mk2,-1,Bass-rolled neutral,C,B-,Electrostatic
+C,-1,Audio Technica ATH-A900X,-1,Warm with bass boost,C,B-,Dynamic
+C,-1,Beyerdynamic DT860,-1,Bright,B-,C,Dynamic
+C,-1,Focal Celestee,1000,Neutral with bass boost,B-,C,Dynamic
+C,-1,AudioQuest NightHawk,600,Warm bassy,C,B-,Dynamic
+C,-1,Audio Technica ATH-AWAS,1400,Mid-centric,C,B-,Dynamic
+C,-1,DCA Aeon 2 OpenDCA Aeon 2 Noire,900,Warm V-shape,B-,C,Planar
+C,-1,Beyerdynamic DT1770 Pro,600,U-shaped,C,B-,Dynamic
+C,-1,Bose QuietComfort 35 II (QC35),350,V-shaped,B-,C,Dynamic
+C,-1,Harman Kardon FLY ANC,250,Neutral with bass boost,B-,C,Dynamic
+C,-1,Koss SP540,150,V-shaped,B-,C,Dynamic
+C,-1,Audio Technica ATH-AD1000X,500,Balanced,C-,B,Dynamic
+C,-1,Audio Technica ATH-AD2000,750,Balanced,C-,B,Dynamic
+C,-1,AKG K872 Pro,1500,Balanced,C-,B,Dynamic
+C,-1,ZMF Atticus(Suede Eikon pads),1100,Bassy,C-,B,Dynamic
+C,-1,Sony MDR-Z7M2,900,U-shaped,C-,B,Dynamic
+C,-1,Audeze LCD-3,1950,Mid-centric,D,A+,Planar
+C,-1,Audeze LCD-1,400,Neutral,B+,D+,Planar
+C,-1,Fostex TH500(w/ worn pads),700,Balanced,C,C+,Planar
+C,-1,Philips SHP9500,-1,Bright,C,C+,Dynamic
+C,-1,DCA Ether C Flow 1.1,1600,Neutral with bass boost,C,C+,Planar
+C,-1,Campfire Cascade,800,Bassy,C+,C,Dynamic
+C,-1,Grado The Hemp Headphone,420,Bass-rolled neutral,C,C+,Dynamic
+C,-1,Bose Noise Cancelling Headphones 700,400,Neutral with bass boost,C+,C,Dynamic
+C,-1,Audeze Mobius(Default preset),300,Warm neutral,C,C+,Planar
+C,-1,Grado GW100,250,Balanced,C,C+,Dynamic
+C,-1,Master & Dynamic MH40,250,Bassy,C,C+,Dynamic
+C,-1,Beyerdynamic DT770 Pro,160,U-shaped,C,C+,Dynamic
+C,-1,AKG K240 Studio,70,Mid-centric,C,C+,Dynamic
+C,-1,Meze 99 Classics,310,Bassy,C-,B-,Dynamic
+C,-1,Audio Technica ATH-A2000X,500,Balanced,D+,B,Dynamic
+C,-1,Denon AH-D9200,1600,Mid-centric,D+,B,Dynamic
+C,-1,ZMF Eikon(Lambskin Eikon pads),1400,Bright,D+,B,Dynamic
+C,-1,Denon AH-D7200,1000,Mid-centric,D+,B,Dynamic
+C,-1,MrSpeakers Aeon Flow,-1,Warm,C,C,Planar
+C,-1,DCA Ether 2,2300,Balanced,C,C,Planar
+C,-1,DCA Ether Flow 1.1,1800,Warm V-shape,C,C,Planar
+C,-1,Audeze Sine DX,600,Mid-centric,C,C,Planar
+C,-1,B&W PX,400,Warm,C,C,Dynamic
+C,-1,V-MODA Crossfade 2 Wireless,330,V-shaped,C,C,Dynamic
+C,-1,Audio Technica ATH-MSR7b,250,V-shaped,C,C,Dynamic
+C,-1,Koss Portapro,80,Bass-rolled warm,C,C,Dynamic
+C-,-1,Stax SR-3,500,Bass-rolled neutral,C+,C-,Electrostatic
+C-,-1,Audio Technica ATH-A1000Z,400,Neutral with bass boost,C-,C+,Dynamic
+C-,-1,Audio Technica ATH-A2000Z,650,Neutral with bass boost,C-,C+,Dynamic
+C-,-1,Audeze LCD-X (Pre-20201),1700,Neutral,D-,A+,Planar
+C-,-1,Audio Technica ATH-M50x,150,Neutral with bass boost,C+,C-,Dynamic
+C-,-1,Grado SR60e/SR80e,80,Bright neutral,C-,C+,Dynamic
+C-,-1,Sony MDR-V6,-1,DF-neutral with bass boost,B+,D,Dynamic
+C-,-1,AKG K812,1500,Bright,D+,B-,Dynamic
+C-,-1,Focal Elegia,900,Neutral with bass boost,D+,B-,Dynamic
+C-,-1,DCA Voce,3300,Balanced,D-,A,Electrostatic
+C-,-1,Oppo PM-3,500,V-shaped,B,D,Planar
+C-,-1,Quad ERA-1,800,Mid-centric,D,B,Planar
+C-,-1,Stax SR-40,-1,Bass-rolled neutral,C-,C,Electret
+C-,-1,Shure Aonic 50,400,V-shaped,C-,C,Dynamic
+C-,-1,Precide ERGO 2,250,Bass-rolled neutral,C-,C,Dynamic
+C-,-1,Audio Technica ATH-M30X,70,Neutral with bass boost,C,C-,Dynamic
+C-,-1,Logitech G PRO X,130,Bassy,C+,D+,Dynamic
+C-,-1,Sony MDR-CD900ST,-1,Warm neutral,B-,D,Dynamic
+C-,-1,Stax SR-84,500,Bass-rolled neutral,B-,D,Electret
+C-,-1,Audio Technica ATH-L5000,4000,Balanced,D,B-,Dynamic
+C-,-1,Audio Technica ATH-AWKT,1900,Bright,D,B-,Dynamic
+C-,-1,Koss PRO DJ100,80,DF-neutral with bass boost,B-,D,Dynamic
+C-,-1,Sony WH-1000XM4,350,Bassy,C-,C-,Dynamic
+D+,-1,Pioneer Monitor 10,150,Balanced,D+,C,Dynamic
+D+,-1,Klipsch HP3,1200,Warm V-shape,D+,C,Dynamic
+D+,-1,Beyerdynamic Amiron Home,750,Warm V-shape,D+,C,Dynamic
+D+,-1,Logitech G933s,200,Bassy,C,D+,Dynamic
+D+,-1,Pioneer SE-Master1,2500,Bright,D,C+,Dynamic
+D+,-1,Beyerdynamic T5 (3rd Gen),1000,Bassy,D,C+,Dynamic
+D+,-1,Drop + THX Panda,400,Warm,B-,D-,Planar
+D+,-1,Sennheiser HD559,150,Warm,D+,C-,Dynamic
+D+,-1,Sony MDR-7510,130,Neutral with bass boost,C,D,Dynamic
+D+,-1,iBasso SR1,500,Balanced,D,C,Dynamic
+D+,-1,Audio Technica ATH-AD900X,300,Balanced,D,C,Dynamic
+D+,-1,Audio Technica ATH-A990Z,220,V-shaped,D,C,Dynamic
+D+,-1,Beyerdynamic DT250,200,Mid-centric,C,D,Dynamic
+D+,-1,V-MODA Crossfade LP2,200,Bassy,D,C,Dynamic
+D,-1,Beyerdynamic DT1350,500,Warm,D,C-,Dynamic
+D,-1,Logitech G431,-1,Warm,C-,D,Dynamic
+D,-1,Sennheiser Amperior,300,Mid-centric,D,C-,Dynamic
+D,-1,B&O BeoPlay H7,450,Balanced,D,C-,Dynamic
+D,-1,Audio Technica ATH-AD700X,200,Warm,D,C-,Dynamic
+D,-1,Audio Technica ATH-AD500X,170,Warm,D,C-,Dynamic
+D,-1,iBasso SR2,550,Bright,D-,C,Dynamic
+D,-1,Koss Pro4S,150,V-shaped,D-,C,Dynamic
+D,-1,Audio Technica ATH-EW9,330,Mid-centric,D+,D,Dynamic
+D,-1,Focal Listen Professional,300,Balanced,D,D,Dynamic
+D,-1,Sennheiser HD400S,70,Balanced,D,D,Dynamic
+D-,-1,Yamaha HP-50S,60,Warm,D+,D-,Dynamic
+D-,-1,AudioQuest NightOwl,700,Dark,D-,D+,Dynamic
+D-,-1,Shure SRH240A,60,V-shaped,D+,D-,Dynamic
+E,-1,Sennheiser HD820,2400,V-shaped,E,B,Dynamic
+E,-1,Beyerdynamic T1 (3rd Gen),1000,Warm V-shape,E,B-,Dynamic
+E,-1,Sennheiser Momentum 2.0 Wireless,180,Unique,E,C+,Dynamic
+E,-1,Final Sonorous VIII,3000,Unique,E,C,Dynamic
+E,-1,Final Sonorous X,5000,Unique,E,C,Dynamic
+E,-1,Spirit Torino Radiante,2250,Unique,E,C,Dynamic
+E,-1,AKG K92,60,V-shaped,E,D,Dynamic
+E,-1,AKG K72,50,V-shaped,E,D,Dynamic
+E,-1,AKG K52,35,V-shaped,E,D,Dynamic
+E,-1,FiiO EH3,200,Bassy,E,E,Dynamic
+E,-1,EKSA E900 Pro,50,Dark,E,E,Dynamic
+F,-1,Yamaha HP-300,-1,Complete failure,F,F,Dynamic
+F,-1,Pioneer SE-2P,20,Complete failure,F,F,Dynamic
+F,-1,Sansui SS-10,340,Complete failure,F,F,Dynamic

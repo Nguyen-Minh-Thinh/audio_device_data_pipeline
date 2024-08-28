@@ -1,0 +1,26 @@
+services:
+  airflow:
+    build: 
+      dockerfile: Dockerfile.airflow
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./data:/opt/airflow/data
+      - ./airflow/tasks:/opt/airflow/tasks
+      - ./.env:/opt/airflow/.env
+      - ./airflow/clean_bronze_level_data.py:/opt/airflow/clean_bronze_level_data.py
+    ports:
+      - 8080:8080
+    command: bash -c '(airflow db init && airflow users create --username ${AIRFLOW_USER_NAME} --password ${AIRFLOW_USER_PASSWORD} --firstname ${AIRFLOW_USER_FIRSTNAME} --lastname ${AIRFLOW_USER_LASTNAME} --role ${AIRFLOW_USER_ROLE} --email ${AIRFLOW_USER_EMAIL}); airflow webserver & airflow scheduler'
+    networks:
+      - audio_device_pipeline_project
+  mysql:
+    image: mysql/mysql-server
+    ports:
+      - 3307:3306
+volumes:
+  dags:
+  data:
+
+networks:
+  audio_device_pipeline_project:
+    external: true  # Make sure that network has been created

@@ -1,0 +1,1067 @@
+rank,value_rating,model,price_msrp,signature,tone_grade,technical_grade,driver_type
+S-,1,Elysian Annihilator (2021),3700,U-shaped,S-,S,2EST 4BA 1DD
+S-,2,ThieAudio Monarch Mk2,1000,Neutral with bass boost,S+,A+,2EST 6BA 1DD
+S-,2,"Hidition Viento(B-mode, custom)",950,Variable,S+,A+,4BA
+A+,1,ThieAudio V16 Divinity,1500,Neutral with bass boost,S-,A+,16BA
+A+,1,Hidition NT6,1050,Neutral,S-,A+,6BA
+A+,1,Sony IER-Z1R,1700,Mild V-shape,A+,S-,1BA 2DD
+A+,3,Moondrop Variations,520,U-shaped,S,A,2EST 2BA 1DD
+A+,1,qdc 8SL/Gemini/Anole VX,1410,Mild V-shape,A,S,8/10BA
+A+,2,Sennheiser IE600,700,U-shaped,A+,A+,DD
+A+,1,Softears RS10,2100,U-shaped,A+,A+,10BA
+A+,-1,Oriolus Traillii,6000,Neutral with bass boost,A+,A+,4EST 8BA
+A,-1,ThieAudio Monarch,-1,Neutral with bass boost,S-,A,2EST 6BA 1DD
+A,-1,Moondrop S8,-1,U-shaped,S-,A,8BA
+A,-1,Moondrop Blessing 2,-1,Mild V-shape,A+,A,4BA 1DD
+A,2,ThieAudio Oracle,540,Neutral with bass boost,S,A-,2EST 2BA 1DD
+A,1,Softears RSV,730,Neutral with bass boost,S,A-,5BA
+A,-1,64 Audio A/U12t,2000,Neutral with bass boost,A,A+,12BA
+A,-1,StereoPravda SB7,2500,Bright neutral,A-,S,7BA
+A,-1,Hidition Violet,3300,Neutral with bass boost,A,A+,11BA
+A,-1,Empire Ears Odin,3400,Mild V-shape,A,A+,4EST 5BA 2DD
+A,-1,Vision Ears Erlkonig,4800,Variable,A,A+,13BA
+A,-1,Elysian X,4600,V-shaped,A-,S-,4EST 4BA 1DD
+A,-1,DUNU Talos,-1,Bright neutral,A,A,1Planar 2BA
+A,3,7Hz Timeless,220,Neutral with bass boost,A,A,Planar
+A,-1,Elysian Diva,1600,U-shaped,A,A,6BA
+A,-1,Moondrop A8,-1,V-shaped,A,A,8BA
+A,1,Symphonium Helios,1100,Neutral with bass boost,A,A,4BA
+A,-1,qdc Anole V14,2740,Variable,A,A,4EST 10BA
+A-,-1,Kiwi Ears Orchestra,-1,Mild V-shape,A+,A-,8BA
+A-,-1,Vision Ears Elysium,3200,Mild V-shape,A-,A+,2EST 1BA 1DD
+A-,-1,Ultimate Ears Reference Monitor (UERM),-1,Neutral,A+,A-,3BA
+A-,-1,ThieAudio Clairvoyance,-1,Neutral with bass boost,S,B+,2EST 5BA 1DD
+A-,-1,JVC HA-FW10000,2200,Bright neutral,B+,S-,DD
+A-,-1,Drop + JVC HA-FDX1,-1,Neutral,A,A-,DD
+A-,-1,Softears Twilight,930,V-shaped,A-,A,DD
+A-,-1,Moondrop Blessing,-1,Bright neutral,A,A-,4BA 1DD
+A-,1,Kumitate KL-Sirius,815,Neutral,A,A-,4BA
+A-,-1,Sony IER-M9,1000,Warm neutral,A-,A,5BA
+A-,-1,PEARS SH3,1100,Neutral,A,A-,3BA
+A-,-1,Empire Ears ESR Mk2,1100,Warm neutral,A,A-,2EST 3BA
+A-,-1,qdc 8SS,1450,Neutral,A-,A,8BA
+A-,-1,Kumitate KL-Focus,1600,U-shaped,A,A-,5BA
+A-,-1,Hidition NT8,1850,Neutral,A-,A,8BA
+A-,-1,64 Audio Tia Trio,2300,Neutral with bass boost,A,A-,2BA 1DD
+A-,-1,64 Audio Nio,1700,Variable,A+,B+,8BA 1DD
+A-,1,DUNU Vulkan,380,U-shaped,A+,B+,4BA 2DD
+A-,-1,Hidition Waltz,900,Mild V-shape,A+,B+,3BA
+A-,-1,Softears Turii,1400,Mild V-shape,B+,A+,DD
+A-,-1,64 Audio A/U18 Tzar,3000,Warm neutral,B+,A+,18BA
+A-,-1,Shure KSE1200,2000,Bright U-shape,B,S+,Electrostatic
+A-,3,Tangzu Zetian Wu,150,Neutral with bass boost,A-,A-,Planar
+A-,-1,ThieAudio Excalibur,-1,V-shaped,A-,A-,2EST 2BA 1DD
+A-,1,Etymotic ER4XR,350,Neutral,A-,A-,BA
+A-,1,Sony IER-M7,500,Warm neutral,A-,A-,4BA
+A-,-1,Lime Ears Model X,1000,Variable,A-,A-,4BA
+A-,-1,See Audio Neo,1100,Neutral with bass boost,A-,A-,10BA
+A-,-1,InEar SD5,1100,Warm V-shape,A-,A-,5BA
+A-,-1,Noble K10 Encore,1850,Neutral,A-,A-,10BA
+A-,-1,Noble Katana,1850,Neutral with laid-back treble,A-,A-,9BA
+A-,-1,Elysian Poseidon,1940,Neutral with bass boost,A-,A-,6BA 1DD
+A-,-1,Empire Ears Legend X,2300,V-shaped,A-,A-,5BA 2DD
+A-,-1,Vision Ears VE8,2700,Warm neutral,A-,A-,8BA
+A-,-1,Vision Ears EXT,3000,U-shaped,A-,A-,2EST 2DD
+A-,-1,Empire Ears Legend X SE,3250,V-shaped,A-,A-,5BA 2DD
+A-,-1,Massdrop x Noble K10,-1,Neutral with bass boost,A-,A-,10BA
+A-,-1,Etymotic ER4B,-1,Bright neutral,A-,A-,BA
+B+,3,Etymotic ER2SE/ER2XR,110,Neutral,A,B+,DD
+B+,2,Moondrop Kato,190,Mild V-shape,A,B+,DD
+B+,2,Samsung Galaxy Buds2 Pro,230,U-shaped,S-,B,2DD
+B+,-1,Tanchjim Oxygen,-1,Mild V-shape,A,B+,DD
+B+,1,Fearless S8Z,590,Warm neutral,A,B+,8BA
+B+,1,Clariar i430,600,Mild V-shape,A,B+,4BA
+B+,1,qdc 4SS,700,Neutral,B+,A,4BA
+B+,-1,HYLA CE-5,915,U-shaped,B+,A,1Piezo 2BA 1DD
+B+,-1,Clariar i640,1200,V-shaped,A,B+,6BA
+B+,-1,HYLA Sarda,1250,U-shaped,B+,A,1Piezo 2BA 1DD
+B+,-1,HYLA TE-5B,1300,U-shaped,B+,A,1Piezo 2BA 1DD
+B+,-1,qdc 8SH,1450,Mild V-shape,B+,A,8BA
+B+,-1,qdc Tiger,1500,Mild V-shape,B+,A,2EST 6BA
+B+,-1,Jomo Trinity SS,2800,V-shaped,B+,A,2EST 4BA 1DD
+B+,-1,Unique Melody Mason V3+,3200,Bright neutral,B+,A,16BA
+B+,2,AKG N400,155,U-shaped,A+,B,DD
+B+,3,Truthear Hexa,80,Neutral,A+,B,3BA 1DD
+B+,2,Samsung Galaxy Buds Pro,200,Warm V-shape,A+,B,2DD
+B+,2,Apple AirPods Pro 2,250,Mild V-shape,A+,B,DD
+B+,2,Softears Volume,285,Mild V-shape,A+,B,2BA 1DD
+B+,-1,Gaudio Nair,862,Neutral,A+,B,3BA
+B+,1,Fatfreq Maestro Mini,450,Neutral with bass boost,A+,B,2BA 1DD
+B+,-1,Sennheiser IE900,1300,U-shaped,B,A+,DD
+B+,-1,Noble Khan,2300,U-shaped,B,A+,1Piezo 4BA 1DD
+B+,-1,Noble Kublai Khan,2600,U-shaped,B,A+,1Piezo 1BC 4BA 1DD
+B+,2,Etymotic ER3SE/ER3XR,160,Warm neutral,A-,B+,BA
+B+,-1,DUNU DK-3001 Pro,-1,Warm neutral,A-,B+,3BA 1DD
+B+,-1,Unique Melody MEXT,1100,U-shaped,B+,A-,1BC 4BA 1DD
+B+,1,MiM Dark Magician,500,Neutral,A-,B+,DD
+B+,-1,Ultimate Ears Reference Remastered (UERR),1000,Neutral with laid-back treble,B+,A-,3BA
+B+,-1,FAudio Dark Sky,1100,V-shaped,A-,B+,DD
+B+,-1,Vision Ears VE7,1300,Warm neutral,B+,A-,7BA
+B+,-1,Unique Melody MEST,1400,Neutral with bass boost,B+,A-,1BC 2EST 4BA 1DD
+B+,-1,Unique Melody MEST Mk2,1500,Neutral with bass boost,B+,A-,1BC 2EST 4BA 1DD
+B+,-1,Elysian Hades V2,1550,Variable,B+,A-,6BA
+B+,-1,Elysian Terminator V2,2500,V-shaped,B+,A-,8BA
+B+,-1,Elysian Terminator,-1,Warm V-shape,B+,A-,8BA
+B+,-1,DUNU x Z Reviews SA6 Ultra,-1,U-shaped,B,A,6BA
+B+,-1,Hidition NT6 Pro,1100,Neutral with bass boost,B,A,6BA
+B+,-1,InEar Prophile-8,1600,Neutral,A,B,8BA
+B+,-1,64 Audio A18S,3000,Warm neutral,B,A,18BA
+B+,-1,Audeze Euclid,1300,Mild V-shape,B-,S-,Planar
+B+,2,Unique Melody 2HT “Terminator”,200,U-shaped,B+,B+,1BA 1DD
+B+,1,iBasso AM05,300,Neutral,B+,B+,5BA
+B+,1,Fearless S6Pro,390,Neutral,B+,B+,6BA
+B+,-1,iBasso IT04,-1,U-shaped,B+,B+,3BA 1DD
+B+,-1,JQ Hua Jiang,750,Neutral with bass boost,B+,B+,2EST 6BA 1DD
+B+,-1,Oriolus MK2,1100,V-shaped,B+,B+,3BA 1DD
+B+,-1,FiR M3,1200,Warm neutral,B+,B+,2BA 1DD
+B+,-1,64 Audio N8,1700,Bassy,B+,B+,8BA 1DD
+B+,-1,FiR M4,1900,Warm neutral,B+,B+,3BA 1DD
+B+,-1,FitEar MH334SR,2000,Warm neutral,B+,B+,4BA
+B+,-1,Jomo Flamenco,2200,Warm neutral,B-,A+,11BA
+B+,-1,FiR M5,2800,Warm V-shape,B+,B+,1EST 3BA 1DD
+B+,-1,Empire Ears Legend EVO,3100,Bassy,B+,B+,5BA 2DD 1BC
+B+,-1,Mofasest M14,-1,Neutral with bass boost,B+,B+,14BA
+B,2,Samsung Galaxy Buds,130,Neutral,A-,B,DD
+B,-1,Moondrop Aria,-1,Mild V-shape,A-,B,DD
+B,3,DUNU Titan S,80,Mild V-shape,A-,B,DD
+B,-1,Moondrop Starfield,-1,Mild V-shape,A-,B,DD
+B,-1,Moondrop KXXS,-1,Mild V-shape,A-,B,DD
+B,-1,DUNU SA6,550,Neutral with bass boost,B,A-,6BA
+B,1,JVC HA-FD01,300,Bright V-shape,B,A-,DD
+B,1,JVC HA-FD02,300,Bright V-shape,B,A-,DD
+B,1,FAudio Minor,520,Mild V-shape,A-,B,DD
+B,-1,Aya Siren,600,Neutral,A-,B,2EST 4BA
+B,-1,"Tansio Mirai TSMR-12 ""Zodiac""",1330,Neutral,B,A-,12BA
+B,-1,Acoustune HS1650,650,V-shaped,B,A-,DD
+B,-1,Shuoer x HBB EJ07M Kinda Lava Edition,670,Mild V-shape,A-,B,4EST 2BA 1DD
+B,-1,Unique Melody Martian,700,Neutral with bass boost,A-,B,2BA 2DD
+B,-1,Acoustune HS1670,800,V-shaped,B,A-,DD
+B,-1,Fatfreq Sakura,950,Neutral,A-,B,6BA
+B,-1,ThieAudio Voyager 14 (V14),1000,Neutral,B,A-,14BA
+B,-1,Fearless Lancelot,1300,Warm,B,A-,2EST 6BA
+B,-1,Acoustune HS1695Ti,-1,U-shaped,B,A-,DD
+B,-1,Moondrop Solis,1100,Warm neutral,A,B-,4BA 2EST
+B,-1,Prisma Azul,-1,Neutral,A,B-,2BA
+B,-1,SeeAudio Miu,650,U-shaped,A,B-,2EST 2BA 1DD
+B,-1,HYLA TE-5T,1300,Bright U-shape,B-,A,1Piezo 2BA 1DD
+B,-1,Unique Melody Maestro V2,2000,Balanced,B-,A,12BA
+B,-1,Final Audio A8000,2000,Bright V-shape,B-,A,DD
+B,-1,Oriolus Percivali,2000,Neutral with bass boost,B-,A,2EST 2BA 1DD
+B,-1,Oriolus Mellianus,2400,Mild V-shape,B-,A,10BA
+B,-1,Jomo Trinity Brass,2800,Warm,B-,A,2EST 4BA 1DD
+B,-1,Jomo Samba,-1,V-shaped,B-,A,8BA
+B,-1,See Audio Yume,-1,Neutral with bass boost,S-,C+,2BA 1DD
+B,-1,DUNU Luna,1700,Mid-centric,C+,S-,DD
+B,-1,Dita Dream,1800,V-shaped,C+,S-,DD
+B,-1,Samsung Galaxy Buds+,-1,U-shaped,B+,B,2DD
+B,-1,Etymotic ER4PT,-1,Warm neutral,B+,B,BA
+B,1,Tanchjim Darling,420,Bright V-shape,B,B+,2BA 1DD
+B,2,Tanchjim New Hana (2021),180,Mild V-shape,B+,B,DD
+B,1,Audiosense DT600,250,Neutral with bass boost,B+,B,6BA
+B,-1,DUNU EST 112,490,Neutral,B+,B,2EST 1BA 1DD
+B,-1,XENNS UP,700,Neutral with bass boost,B+,B,2EST 4BA 1DD
+B,-1,Shuoer EJ07,850,Dark neutral,B+,B,4EST 2BA 1DD
+B,-1,Fearless S8F/S8Pro,490,V-shaped,B,B+,8BA
+B,-1,Acoustune HS1750,600,V-shaped,B,B+,DD
+B,-1,Oriolus Isabellae,600,Mild V-shape,B+,B,DD
+B,-1,AAW ASH,800,Warm neutral,B,B+,6BA 1DD
+B,-1,Fatfreq Tsuru,800,Bright neutral,B+,B,3BA
+B,-1,DUNU Zen Pro,900,V-shaped,B+,B,DD
+B,-1,qdc Anole V6,1100,Variable,B,B+,6BA
+B,-1,Campfire Andromeda (2020),1100,Warm neutral,B,B+,5BA
+B,-1,Campfire Andromeda (S),1100,Warm U-shape,B,B+,5BA
+B,-1,Fatfreq Hayabusa,1320,Mild V-shape,B+,B,8BA
+B,-1,See Audio Kaguya,1400,U-shaped,B,B+,4EST 4BA
+B,-1,Softears Cerberus,2100,Dark neutral,B,B+,2EST 4BA 1DD
+B,-1,Ultimate Ears UE4 Pro,-1,Neutral,B,B+,2BA
+B,-1,A&K T8iE,-1,Neutral with bass boost,B,B+,DD
+B,-1,Audiosense DT200,-1,Neutral,A+,C+,2BA
+B,-1,ThieAudio Legacy 4 (L4),-1,Neutral with bass boost,A-,B-,3BA 1DD
+B,3,Moondrop Chu,20,Neutral,A+,C+,DD
+B,-1,Truthear Hola,-1,Warm neutral,A+,C+,DD
+B,1,Libratone Track Air Plus,250,Neutral with bass boost,A+,C+,2DD
+B,-1,Moondrop Kanas Pro,-1,Warm V-shape,A-,B-,DD
+B,-1,Unique Melody Merlin V2,1000,Warm neutral,A-,B-,4BA 1DD
+B,-1,64 Audio A6t,1300,Warm,A-,B-,6BA
+B,-1,Empire Ears Hero,1350,U-shaped,B-,A-,3BA 1DD
+B,3,Lypertek PurePlay Z3 2.0(PurePlay Z3)(Tevi),90,Neutral with bass boost,A,C+,DD
+B,-1,Sony XBA-N3,-1,Neutral with bass boost,A,C+,1BA 1DD
+B,-1,Kumitate KL-Corona,650,Neutral,A,C+,3BA
+B,-1,64 Audio tia Fourte,3600,W-shaped,C+,A,3BA 1DD
+B,-1,64 Audio tia Fourte Noir,3800,W-shaped,C+,A,3BA 1DD
+B,-1,Sony MDR-EX1000,-1,Bright neutral,C+,A,DD
+B,-1,Dita Sakura 71,-1,V-shaped,C+,A,DD
+B,-1,Moondrop Crescent,-1,Neutral with bass boost,A,C+,DD
+B,1,FiiO FH5,260,Neutral with bass boost,B,B,3BA 1DD
+B,1,Sennheiser IE300,300,V-shaped,B,B,DD
+B,-1,Tanchjim Prism,600,V-shaped,B,B,2BA 1DD
+B,-1,FiiO FH9,600,Mild V-shape,B,B,6BA 1DD
+B,-1,Yanyin Moonlight,650,Neutral with bass boost,B,B,2EST 4BA 1DD
+B,-1,Aya Trident,800,U-shaped,B,B,4EST 4BA
+B,-1,Moondrop Illumination,800,Warm neutral,B,B,DD
+B,-1,FiiO FD7,600,V-shaped,B,B,DD
+B,-1,Fearless La Hire,610,Neutral,B,B,2EST 2BA
+B,-1,Yanyin x HBB Mahina,650,Neutral with bass boost,B,B,2EST 4BA 1DD
+B,-1,iBasso IT07,900,U-shaped,B,B,6BA 1DD
+B,-1,qdc 5SH,900,V-shaped,B,B,5BA
+B,-1,Kinera Nanna 2.0,900,V-shaped,B,B,2EST 1BA 1DD
+B,-1,Symphonium Triton,900,Neutral,B,B,2BA 1DD
+B,-1,AKG N5005,1000,Neutral with bass boost,B,B,4BA 1DD
+B,-1,Unique Melody Mirage,1100,Mild V-shape,B,B,3BA
+B,-1,Empire Ears Vantage,1400,V-shaped,B,B,1BA 2DD
+B,-1,"Sony Justear XJE-MH2 ""Club""",2150,Warm V-shape,B,B,1BA 1DD
+B,-1,Ultimate Ears UE18+ Pro Gen 2,-1,Warm neutral,B,B,6BA
+B,-1,Kumitate KL-REF Type S,-1,Variable,B,B,3BA 2DD
+B-,3,HZSound Heart Mirror Pro,80,Mild V-shape,B+,B-,DD
+B-,1,Sony WF-1000XM3,230,Neutral with bass boost,B+,B-,DD
+B-,1,Acoustune HS1300,350,V-shaped,B-,B+,DD
+B-,-1,Shanling ME700 Lite,500,Neutral,B+,B-,4BA 1DD
+B-,-1,DUNU DK-4001,900,U-shaped,B-,B+,4BA 1DD
+B-,-1,AAW AXH (2019),430,Bright neutral,B-,B+,4BA 1DD
+B-,-1,Unique Melody MacBeth,600,U-shaped,B-,B+,1BA 1DD
+B-,-1,Elysian Artemis V2,700,Neutral,B-,B+,3BA
+B-,-1,Acoustune HS1655Cu,750,V-shaped,B-,B+,DD
+B-,-1,Acoustune HS1657,750,V-shaped,B-,B+,DD
+B-,-1,Acoustune HS1677,900,V-shaped,B-,B+,DD
+B-,-1,Kinera Nanna,900,Mild V-shape,B+,B-,2EST 1BA 1DD
+B-,-1,Beyerdynamic Xelento,1000,V-shaped,B-,B+,DD
+B-,-1,Chikyu-Sekai 16/Cosmos,1100,Warm neutral,B-,B+,16BA
+B-,-1,Lime Ears Aether,1350,Neutral with bass boost,B+,B-,5BA
+B-,-1,Craft Ears Aurum,1500,Neutral with bass boost,B+,B-,2EST 4BA 1DD
+B-,-1,FAudio Mezzo,1900,Variable,B-,B+,1Piezo 2BA 1DD
+B-,-1,Sony MH755,-1,U-shaped,B+,B-,DD
+B-,-1,Sony MDR-AS800AP,-1,Neutral with bass boost,S-,C,DD
+B-,3,Intime Sora,45,U-shaped,A-,C+,DD
+B-,1,Fatfreq Musician Plus V2,230,Neutral with bass boost,A-,C+,2BA
+B-,1,Audio Lokahi,240,Neutral with bass boost,A-,C+,7BA
+B-,1,JVC HA-FW03,250,Bright V-shape,A-,C+,DD
+B-,1,Sony MDR-EX800ST/MDR7550,350,Bright neutral,C+,A-,DD
+B-,2,Moondrop Sparks,90,Neutral,A-,C+,DD
+B-,-1,Tripowin Lea,-1,Mild V-shape,A-,C+,DD
+B-,-1,Nostalgia Benbulbin,900,Neutral with bass boost,A-,C+,4BA 1DD
+B-,-1,Dita Fidelity,1300,V-shaped,C+,A-,DD
+B-,-1,Vision Ears EVE 20,1550,V-shaped,C+,A-,6BA
+B-,-1,Empire Ears Valkyrie,1600,V-shaped,C+,A-,1EST 1BA 1DD
+B-,-1,Empire Ears Valkyrie Mk2,1600,V-shaped,C+,A-,1EST 1BA 1DD
+B-,-1,DUNU Titan 3,-1,Bright neutral,B-,B,DD
+B-,1,qdc Neptune,200,Warm neutral,B,B-,BA
+B-,1,Apple AirPods Pro,250,Neutral,B,B-,DD
+B-,-1,ThieAudio Legacy 5 (L5),-1,Warm neutral,B,B-,4BA 1DD
+B-,-1,Shozy & Neo BG,-1,Bright neutral,B-,B,5BA
+B-,-1,DUNU DK-2001,-1,V-shaped,B-,B,3BA 1DD
+B-,1,FiiO FD5,350,V-shaped,B-,B,DD
+B-,2,Tin HiFi T4,110,Bright neutral,B,B-,DD
+B-,1,Veedix Diamond String,260,V-shaped,B,B-,4BA 1DD
+B-,-1,TRI Starshine,500,Bright V-shape,B-,B,2EST 2BA
+B-,-1,Gaudio Clariden,862,V-shaped,B-,B,3BA
+B-,-1,Fatfreq Reference Pro,370,Neutral,B,B-,3BA
+B-,-1,Fearless S6Rui,390,V-shaped,B-,B,6BA
+B-,-1,Anthem Five E4,400,Neutral with bass boost,B,B-,4BA
+B-,-1,ARC Mira,410,Neutral,B,B-,2BA
+B-,-1,Sony XBA-A3,480,Warm neutral,B-,B,2BA 1DD
+B-,-1,Final Audio B3,500,Warm neutral,B,B-,2BA
+B-,-1,ThieAudio Legacy 9 (L9),550,Bassy,B-,B,8BA 1DD
+B-,-1,NocturnaL Atlantis,600,Neutral,B-,B,4BA
+B-,-1,Sony XBA-Z5,700,Balanced,B-,B,2BA 1DD
+B-,-1,Craft Ears Argentum,850,V-shaped,B,B-,2BA 1DD
+B-,-1,PEARS SH2,860,Neutral,B-,B,2BA
+B-,-1,"Fidue A91 ""Sirius""",900,Warm V-shape,B-,B,4BA 1DD
+B-,-1,Unique Melody Miracle V2,1050,Mild V-shape,B-,B,6BA
+B-,-1,Soranik Ion,1100,Warm,B-,B,5BA
+B-,-1,Vision Ears VE3.2,1200,Warm neutral,B,B-,3BA
+B-,-1,Noble Tux 5,1300,U-shaped,B-,B,4BA 1DD
+B-,-1,HUM Reference,1300,Neutral,B,B-,BA
+B-,-1,Westone ES60,1300,Neutral with laid-back treble,B,B-,6BA
+B-,-1,Custom Art FIBAE 7,1450,Neutral,B,B-,7BA
+B-,-1,qdc Dmagic,1900,Neutral,B,B-,3DD
+B-,-1,Sony XBA-H3,-1,Warm neutral,B-,B,2BA 1DD
+B-,3,Tanchjim Cora,50,V-shaped,B+,C+,DD
+B-,1,JBL LIVE 300TWS,150,V-shaped,B+,C+,DD
+B-,1,Bose SoundSport Free,200,Neutral,B+,C+,DD
+B-,2,Tin HiFi T3 Plus,70,V-shaped,B+,C+,DD
+B-,-1,Tripowin x HBB Olina SE,-1,Mild V-shape,B+,C+,DD
+B-,1,Audiosense AQ3,180,Bassy,B+,C+,2BA 1DD
+B-,-1,Acoustune HS1551,500,Warm V-shape,C+,B+,DD
+B-,-1,Unique Melody Macbeth Ti,700,U-shaped,B+,C+,1BA 1DD
+B-,-1,Empire Ears EVR,800,Neutral,C+,B+,3BA
+B-,-1,Sennheiser IE800,800,Warm,C+,B+,DD
+B-,-1,Aroma Witch Girl S,900,Warm,C+,B+,5BA
+B-,-1,FiR VxV,1000,Mild V-shape,C+,B+,4BA 1DD
+B-,-1,64 Audio A4t,1000,Neutral with bass boost,B+,C+,4BA
+B-,-1,Sennheiser IE800S,1200,Warm,C+,B+,DD
+B-,-1,Campfire Solaris (SE),1500,Balanced,C+,B+,3BA 1DD
+B-,-1,FitEar Private 333,1500,Bright,C+,B+,3BA
+B-,-1,Dita Dream XLS,1850,Neutral,C+,B+,DD
+B-,-1,Unique Melody Maven,2000,V-shaped,C+,B+,11BA
+B-,-1,Aroma Witch Girl W12,3150,Warm V-shape,C+,B+,12BA
+B-,1,Nothing Ear (2),150,Neutral with bass boost,A-,C,DD
+B-,-1,Acoustune HS1697,1150,V-shaped,C,A-,DD
+B-,-1,Campfire Ara,1300,Bright neutral,C,A-,7BA
+B-,-1,Jomo Tango,1400,V-shaped,C,A-,6BA
+B-,-1,Dita Perpetua,3000,Balanced,C,A-,DD
+B-,-1,Aroma Ace,3700,Neutral,C,A-,12BA
+B-,-1,DUNU Titan 1,-1,Bright,B-,B-,DD
+B-,1,ikko OH1,140,V-shaped,B-,B-,1BA 1DD
+B-,1,Shanling ME200,180,V-shaped,B-,B-,1BA 1DD
+B-,-1,Audio Technica ATH-LS200,-1,Neutral,B-,B-,2BA
+B-,1,Fearless S4,290,V-shaped,B-,B-,4BA
+B-,1,Oriveti OH300,300,V-shaped,B-,B-,2BA 1DD
+B-,2,TRI Starsea,130,U-shaped,B-,B-,2BA 1DD
+B-,1,Aune Jasper,300,Mild V-shape,B-,B-,DD
+B-,1,BGVP DM7,300,Warm neutral,B-,B-,6BA
+B-,1,Itsfit R3,305,Neutral,B-,B-,3BA
+B-,-1,Fearless S5H,330,V-shaped,B-,B-,5BA
+B-,-1,Sennheiser IE400 Pro,350,V-shaped,B-,B-,DD
+B-,-1,XENNS Mangird Tea 2,350,Neutral with bass boost,B-,B-,6BA 1DD
+B-,-1,InEar StageDiver SD-2,400,Neutral,B-,B-,2BA
+B-,-1,FiiO FA9,450,Neutral,B-,B-,6BA
+B-,-1,Oriveti OH500,500,V-shaped,B-,B-,4BA 1DD
+B-,-1,Kinera Skuld,550,Neutral,B-,B-,5BA
+B-,-1,ARC Oculus,570,Warm,B-,B-,3BA
+B-,-1,Ultimate Ears UE6 Pro,700,Balanced,B-,B-,1BA 2DD
+B-,-1,TRI Starlight,800,U-shaped,B-,B-,4EST 2BA 1DD
+B-,-1,Colorfly Quintet,900,Mild V-shape,B-,B-,4BA 1DD
+B-,-1,Clear Tune Monitors CT-6E,1000,Neutral,B-,B-,6BA
+B-,-1,Stealthsonics U9 JDM,1100,Neutral with bass boost,B-,B-,8BA 1DD
+B-,-1,Meze Rai Penta,1100,Warm V-shape,B-,B-,4BA 1DD
+B-,-1,Elysian Cora (2019),1230,Neutral with bass boost,B-,B-,4BA 1DD
+B-,-1,FitEar TG334,1400,Dark,B-,B-,4BA
+B-,-1,Rhapsodio Solar,1550,Mild V-shape,B-,B-,10BA
+B-,-1,FitEar MH334,1900,Warm,B-,B-,4BA
+B-,-1,Aure Elixir,2000,Mild V-shape,B-,B-,3BA 1DD
+B-,-1,Soranik Bastille Signature,-1,V-shaped,B-,B-,4BA 1DD
+C+,-1,Tripowin x HBB Mele,50,V-shaped,B,C+,DD
+C+,-1,Edifier TWS5,80,V-shaped,B,C+,DD
+C+,-1,Whizzer A15 Pro,120,Bright neutral,B,C+,DD
+C+,-1,ThieAudio Legacy 3 (L3),130,Neutral,B,C+,2BA 1DD
+C+,-1,Audiosense AQ4,180,Neutral with bass boost,B,C+,3BA 1DD
+C+,-1,Ambient Dynamics AD-006 “Lyndale”,200,Warm neutral,B,C+,1BA 1DD
+C+,-1,Tansio Mirai TSMR-3 Pro,200,Variable,B,C+,3BA
+C+,-1,QoA Adonis,220,Mild V-shape,B,C+,2BA 1DD
+C+,-1,Soranik SP3,250,Bright V-shape,C+,B,3BA
+C+,-1,SeeAudio Bravery,280,Neutral with bass boost,B,C+,4BA
+C+,-1,ARC Pollux,285,Neutral,B,C+,BA
+C+,-1,Periodic Audio Be,300,Mild V-shape,C+,B,DD
+C+,-1,Massdrop Plus,300,Warm neutral,B,C+,3BA
+C+,-1,Tansio Mirai TSMR-5,430,Warm V-shape,B,C+,5BA
+C+,-1,FiiO FH7,450,V-shaped,C+,B,4BA 1DD
+C+,-1,Campfire Polaris V1,600,V-shaped,C+,B,1BA 1DD
+C+,-1,qdc Anole V3,600,Variable,C+,B,3BA
+C+,-1,Aroma Early,600,Neutral with bass boost,B,C+,1BA 1DD
+C+,-1,Shanling ME800,800,Variable,C+,B,4BA 2DD
+C+,-1,Empire Ears ESR,1000,Bright V-shape,C+,B,3BA
+C+,-1,Unique Melody Maverick II,1050,Neutral,B,C+,4BA 1DD
+C+,-1,Astell & Kern T9iE,1300,U-shaped,C+,B,DD
+C+,-1,Vision Ears VE5,1400,Neutral,C+,B,5BA
+C+,-1,Jomo Quatre,1500,V-shaped,C+,B,3BA 1DD
+C+,-1,Alclair Electro,1500,Neutral with bass boost,B,C+,2EST 4BA
+C+,-1,FitEar Monet 17,1550,Warm V-shape,C+,B,4BA
+C+,-1,Westone Mach 80,1600,Dark neutral,C+,B,8BA
+C+,-1,Aroma Twins,1700,Variable,C+,B,7BA
+C+,-1,HUM Dolores,1700,Neutral,B,C+,2BA
+C+,-1,FitEar MH335DW,2250,Warm,C+,B,5BA
+C+,-1,IMR RAH,-1,Variable,C+,B,1Piezo 1Planar 1DD
+C+,-1,EarFun x Oluv Free Pro,-1,Dark neutral,B,C+,DD
+C+,-1,Lypertek Bevi,50,Neutral,B+,C,BA
+C+,-1,Tin HiFi T2 Plus,60,Warm neutral,B+,C,DD
+C+,-1,Shure Aonic 3,160,Neutral,B+,C,BA
+C+,-1,NXEars Sonata,200,Neutral,B+,C,BA
+C+,-1,Mangird MT4,200,Neutral with bass boost,B+,C,3BA 1DD
+C+,-1,Fearless Shangri-la,230,V-shaped,B+,C,4BA 1DD
+C+,-1,Fatfreq Musician Pro SE,380,Neutral with bass boost,B+,C,3BA
+C+,-1,Dita Truth Answer Edition,450,V-shaped,C,B+,DD
+C+,-1,Acoustune HS1501,500,Warm V-shape,C,B+,DD
+C+,-1,Dita Truth,750,V-shaped,C,B+,DD
+C+,-1,Alclair Studio3,750,Neutral with bass boost,B+,C,3BA
+C+,-1,Acoustune HS1790,1000,Bright V-shape,C,B+,DD
+C+,-1,Kumitate KL-REF Type-S,1350,Variable,C,B+,3BA 2DD
+C+,-1,FAudio Major,1400,V-shaped,C,B+,DD
+C+,-1,Campfire Solaris (2020),1500,Bright V-shape,C,B+,4BA 1DD
+C+,-1,Canal Works CW-U91,1570,Warm U-shape,C,B+,16BA
+C+,-1,Hifiman RE400,-1,Bright neutral,B+,C,DD
+C+,-1,Moondrop Spaceship,20,Bright V-shape,C+,B-,DD
+C+,-1,Tin HiFi T2,50,Neutral,B-,C+,2DD
+C+,-1,Tin HiFi T3,80,Mild V-shape,B-,C+,1BA 1DD
+C+,-1,Final Audio Heaven II,90,Bright neutral,B-,C+,BA
+C+,-1,Tanchjim Echo,100,Bright U-shape,B-,C+,DD
+C+,-1,Anker Soundcore Liberty Air 2,100,U-shaped,B-,C+,DD
+C+,-1,DUNU Kima,100,Mild V-shape,B-,C+,DD
+C+,-1,Tripowin x HBB Olina,100,V-shaped,B-,C+,DD
+C+,-1,NiceHCK NX7 Mk3,120,U-shaped,C+,B-,1Piezo 4BA 2DD
+C+,-1,Shuoer Tape,130,V-shaped,C+,B-,MS
+C+,-1,NiceHCK NX7 Pro,132,Bright V-shape,C+,B-,1Piezo 4BA 2DD
+C+,-1,FiiO FH3,150,V-shaped,C+,B-,2BA 1DD
+C+,-1,Anker Soundcore Liberty 2 Pro,150,V-shaped,B-,C+,1BA 1DD
+C+,-1,Tanchjim Hana,160,Mild V-shape,C+,B-,DD
+C+,-1,ThieAudio Voyager 3 (V3),160,Warm V-shape,C+,B-,3BA
+C+,-1,Jabra Elite Active 65t,190,Neutral,B-,C+,DD
+C+,-1,ikko OH10,200,V-shaped,C+,B-,1BA 1DD
+C+,-1,ikko OH1S,200,Bright neutral,C+,B-,1BA 1DD
+C+,-1,iBasso IT01S,200,V-shaped,C+,B-,DD
+C+,-1,qdc Uranus,200,Warm,C+,B-,1BA 1DD
+C+,-1,DUNU Falcon Pro,220,Warm,C+,B-,DD
+C+,-1,Yanyin Aladdin,250,Neutral,C+,B-,3BA 1DD
+C+,-1,Sennheiser Momentum True Wireless 3,250,Warm,B-,C+,DD
+C+,-1,AAW A3H Plus,250,Warm neutral,B-,C+,2BA 1DD
+C+,-1,Mangird Tea,300,Balanced,C+,B-,6BA 1DD
+C+,-1,Tin HiFi P2,350,Warm U-shape,C+,B-,Planar
+C+,-1,Soranik ION-4,350,Neutral with bass boost,C+,B-,1EST 2BA 1DD
+C+,-1,Audio Genetic AG2,450,Warm,C+,B-,2BA
+C+,-1,FAudio Chorus,500,Warm V-shape,C+,B-,3BA
+C+,-1,IMR Zenith,550,Variable,B-,C+,1Piezo 1DD
+C+,-1,Lime Ears LE2,600,Neutral,C+,B-,2BA
+C+,-1,Unique Melody Mini MEST,600,V-shaped,C+,B-,1BC 3BA
+C+,-1,Elysian Artemis,600,Warm,B-,C+,3BA
+C+,-1,Open Audio Mercury,600,Neutral with bass boost,B-,C+,4BA 1DD
+C+,-1,AAW x Custom Art Project 4+2,750,Variable,B-,C+,4BA 2DD
+C+,-1,Craft Ears Cuprum,800,U-shaped,C+,B-,2BA 1DD
+C+,-1,Ultimate Ears UE7 Pro,850,Warm neutral,B-,C+,3BA
+C+,-1,Eternal Melody EM-5,900,Warm,C+,B-,5BA
+C+,-1,qdc Fusion,920,Warm,C+,B-,4BA 1DD
+C+,-1,Alclair Studio4,950,Mild V-shape,B-,C+,4BA
+C+,-1,ikko OH7,950,V-shaped,B-,C+,DD
+C+,-1,Shure SE846,1000,Neutral with bass boost,B-,C+,4BA
+C+,-1,NCM Bella,1050,U-shaped,C+,B-,8BA 1DD
+C+,-1,Tralucent 1+Xplus,1200,U-shaped,C+,B-,1Planar 1BA 1DD
+C+,-1,Canal Works CW-U77,1300,Neutral,C+,B-,8BA
+C+,-1,Vision Ears VE4.2,1440,V-shaped,C+,B-,4BA
+C+,-1,Earsonics Purple,1500,Neutral,C+,B-,5BA
+C+,-1,AAW Halcyon,1500,Warm V-shape,B-,C+,4EST 2BA 1DD
+C+,-1,Empire Ears Nemesis,1600,V-shaped,C+,B-,3BA 2DD
+C+,-1,AAW Canary,2170,V-shaped,C+,B-,2EST 4BA 2DD
+C+,-1,Simphonio VR1,2300,Mild V-shape,C+,B-,DD
+C+,-1,Empire Ears Phantom LE,2500,Warm,C+,B-,5BA
+C+,-1,HYLA Nerva-X,2750,Warm,B-,C+,10BA
+C+,-1,Rhapsodio Infinity (Mk1),3600,V-shaped,C+,B-,6BA
+C+,-1,Audio Technica ATH-IM02,-1,Warm neutral,C+,B-,2BA
+C+,-1,VSonic GR07 Bass Edition,-1,Neutral,B-,C+,DD
+C+,-1,VSonic GR07 Classic,-1,Mild V-shape,B-,C+,DD
+C+,-1,Tralucent 1 Plus 2.2,-1,Bright V-shape,B-,C+,2BA 1DD
+C+,-1,Vive XE800,-1,Mild V-shape,B-,C+,DD
+C+,-1,FLC8S,-1,Variable,B-,C+,2BA 1DD
+C+,-1,Final Audio E500,20,Neutral,B,C,DD
+C+,-1,Final Audio E1000,30,Neutral,B,C,DD
+C+,-1,QCY T5,35,Neutral,B,C,DD
+C+,-1,BLON BL03,38,Warm V-shape,B,C,DD
+C+,-1,EarFun x Oluv Free,50,Bassy,B,C,2DD
+C+,-1,Neusonik direm E3,50,V-shaped,B,C,DD
+C+,-1,Audiosense DT100,110,Neutral,B,C,BA
+C+,-1,Edifier TWS6,120,U-shaped,B,C,BA
+C+,-1,Fearless Provence,140,Neutral with bass boost,B,C,2BA 1DD
+C+,-1,JVC HA-FX99X-B,170,Neutral with bass boost,B,C,DD
+C+,-1,Seek Real Audio Airship,180,V-shaped,B,C,DD
+C+,-1,Sony MDR-EX600,200,Balanced,C,B,DD
+C+,-1,Fatfreq Reference Plus V2,230,Dark neutral,B,C,2BA
+C+,-1,Shure Aonic 4,260,Neutral with bass boost,B,C,1BA 1DD
+C+,-1,Unique Melody 3D Terminator,400,Bright V-shape,C,B,3DD
+C+,-1,Vision Ears VE2,800,Warm,B,C,2BA
+C+,-1,Lime Ears Aether R,1350,Variable,C,B,6BA
+C+,-1,Vision Ears VE6,1500,Warm neutral,C,B,6BA
+C+,-1,Noble Kadence,1600,Bright V-shape,C,B,8BA
+C+,-1,Ambient Acoustics MAD24,3500,Warm,C,B,24BA
+C+,-1,Advanced Evo X,-1,Neutral,B,C,DD
+C+,-1,ThieAudio Legacy 2 (L2),100,Neutral,B+,C-,1BA 1DD
+C+,-1,Ultimate Ears UE18+ Pro Gen 3,1500,Balanced,C-,B+,6BA
+C+,-1,Tanchjim Tanya,25,V-shaped,C+,C+,DD
+C+,-1,Zero Audio Carbo Tenore ZH-DX200-CT,40,V-shaped,C+,C+,DD
+C+,-1,Urbanfun YBF-ISS014,60,V-shaped,C+,C+,DD
+C+,-1,HZSound Heart Mirror,60,Balanced,C+,C+,DD
+C+,-1,FiiO F9,100,Bright V-shape,C+,C+,2BA 1DD
+C+,-1,Periodic Audio Mg,100,Warm,C+,C+,DD
+C+,-1,Fearless Barcelona,120,Bassy,C+,C+,1BA 1DD
+C+,-1,FiiO F9 Pro,150,Bright V-shape,C+,C+,2BA 1DD
+C+,-1,Shozy & Neo CP,165,Warm,C+,C+,3BA
+C+,-1,TFZ King Pro,170,V-shaped,C+,C+,DD
+C+,-1,Final Audio Heaven 4,170,Warm neutral,C+,C+,BA
+C+,-1,Tin HiFi P1 Plus,170,Warm neutral,C+,C+,Planar
+C+,-1,KBEar TRI I3,200,V-shaped,C+,C+,1BA 1DD 1Planar
+C+,-1,iBasso IT03,260,U-shaped,C+,C+,2BA 1DD
+C+,-1,Fostex TM2,300,V-shaped,C+,C+,DD
+C+,-1,DUNU DN-2000,300,Balanced,C+,C+,2BA 1DD
+C+,-1,Final Audio B2,300,Neutral,C+,C+,BA
+C+,-1,Aroma Star,300,V-shaped,C+,C+,BA
+C+,-1,Azla Horizon,300,V-shaped,C+,C+,DD
+C+,-1,1Custom SA03,300,Warm V-shape,C+,C+,3BA
+C+,-1,UFOEar UFO-112,350,V-shaped,C+,C+,2BA 1DD
+C+,-1,Yanyin Canon,350,Variable,C+,C+,4BA 1DD
+C+,-1,JVC HA-FW02,370,V-shaped,C+,C+,DD
+C+,-1,DUNU DN-2002,380,Warm,C+,C+,2BA 2DD
+C+,-1,Craft Ears Craft TWO,400,Warm neutral,C+,C+,2BA
+C+,-1,Custom Art FIBAE Black,500,Warm neutral,C+,C+,1BA
+C+,-1,IMR R2 Aten,500,Variable,C+,C+,1Piezo 1DD
+C+,-1,Tansio Mirai Land,600,Variable,C+,C+,2EST 3BA 1DD
+C+,-1,Empire Ears Bravado,700,V-shaped,C+,C+,1BA 1DD
+C+,-1,JH Audio Rosie,1000,Warm V-shape,C+,C+,6BA
+C+,-1,Ultimate Ears UE11 Pro,1150,Bassy,C+,C+,4BA
+C+,-1,64 Audio Duo,1200,Warm,C+,C+,1BA 1DD
+C+,-1,AAW Mockingbird,1450,Neutral,C+,C+,8BA 1DD
+C+,-1,Aroma Yao,2500,Warm,C+,C+,12BA
+C+,-1,VSonic GR07X,-1,Neutral,C+,C+,DD
+C+,-1,Neusonik direm PRO,-1,V-shaped,C+,C+,DD
+C+,-1,1Custom SA05,-1,Warm V-shape,C+,C+,5BA 
+C,-1,Samsung AKG EO-IG955,10,V-shaped,B-,C,DD
+C,-1,Tanchjim Zero,15,Bright neutral,B-,C,DD
+C,-1,FiiO F3,25,U-shaped,B-,C,DD
+C,-1,Moondrop SSP,40,V-shaped,C,B-,DD
+C,-1,Final Audio E2000,45,V-shaped,B-,C,DD
+C,-1,Final Audio E3000,55,Warm,B-,C,DD
+C,-1,FiiO F5,65,V-shaped,B-,C,DD
+C,-1,Shanling MTW200,70,Bright U-shape,B-,C,DD
+C,-1,FiiO FA1,100,Neutral,B-,C,BA
+C,-1,BQEYZ Spring 1,140,V-shaped,C,B-,1Piezo 1BA 1DD
+C,-1,Fatfreq Reference,150,Neutral,B-,C,BA
+C,-1,NF Audio NM2+,170,Bright V-shape,C,B-,DD
+C,-1,KBEar Aurora,170,V-shaped,B-,C,DD
+C,-1,Final Audio E4000,180,V-shaped,B-,C,DD
+C,-1,Oriolus Finschi,180,Bright,B-,C,2BA 1DD
+C,-1,DUNU DN-1000,200,Neutral,B-,C,2BA 1DD
+C,-1,ThieAudio Elixir,200,Neutral with bass boost,B-,C,DD
+C,-1,Symphonium Aurora,250,Warm neutral,B-,C,2BA
+C,-1,FiiO FH5s,280,V-shaped,C,B-,2BA 2DD
+C,-1,Final Audio E5000,280,Warm,B-,C,DD
+C,-1,FiiO FA7S,340,Warm,C,B-,6BA
+C,-1,Eartech Dual Driver,350,Warm,B-,C,2BA
+C,-1,Sennheiser Momentum True Wireless 2(High-End Sound Tuning mode),350,Neutral with bass boost,B-,C,DD
+C,-1,AAW A3H Pro V2,370,Warm,B-,C,2BA 1DD
+C,-1,Oriolus Forsteni,375,U-shaped,C,B-,2BA 1DD
+C,-1,AKG N40,400,Variable,B-,C,1BA 1DD
+C,-1,Shure Aonic 5,450,Neutral,B-,C,3BA
+C,-1,JVC HA-FW1500,500,V-shaped,C,B-,DD
+C,-1,Noble Savant 2,500,Warm,B-,C,2BA
+C,-1,IMR Aten,550,Variable,C,B-,Piezo DD
+C,-1,Noble Sage,600,Warm neutral,B-,C,2BA
+C,-1,Tralucent 1 Plus 1.2,650,Warm,B-,C,1BA 1DD
+C,-1,Fatfreq 20.6,810,Warm,C,B-,6BA
+C,-1,Itsfit Fusion,950,Balanced,C,B-,1MS 2BA 1DD
+C,-1,JH Audio JH13v2 Performance Series,1000,V-shaped,C,B-,8BA
+C,-1,Aroma Witch Girl Pro,1100,Warm,C,B-,4BA 2DD
+C,-1,FitEar Parterre,1200,Warm,C,B-,2BA?
+C,-1,Dita Fealty,1300,Mild V-shape,C,B-,DD
+C,-1,MMR Homunculus,1700,Warm neutral,C,B-,2EST 1BA 1DD
+C,-1,Flipears Aurora,2100,Balanced,C,B-,2EST 6BA 2DD
+C,-1,Tralucent 1 Plus 5.2,2380,Balanced,C,B-,5BA
+C,-1,Audeze LCDi4 (No Cipher),2500,Balanced,D,S+,Planar
+C,-1,Empire Ears Wraith,3500,Dark neutral,C,B-,4EST 7BA
+C,-1,Acoustune HS1004,-1,Bright V-shape,C,B-,DD
+C,-1,Dita Project 71,-1,Warm,C,B-,DD
+C,-1,Rhapsodio Galaxy,-1,V-shaped,C,B-,DD
+C,-1,Audeze LCD-i3 (No Cipher),900,Dark,D,S,Planar
+C,-1,QKZ x HBB,20,Bassy,B,C-,DD
+C,-1,7Hz Eternal,250,V-shaped,C-,B,DD
+C,-1,Audeze iSine 10/20 (No Cipher),400,Unique,D,S-,Planar
+C,-1,Stax SR-002,500,Balanced,C-,B,Electrostatic
+C,-1,JH Audio JH16v2,1300,Warm V-shape,C-,B,10BA
+C,-1,Lark Studio LSX,1700,Warm V-shape,C-,B,10BA
+C,-1,JH Audio Roxanne 2,2300,Warm V-shape,C-,B,12BA
+C,-1,Ambient Acoustics MAD16,2500,Warm V-shape,C-,B,16BA
+C,-1,Empire Ears Zeus-XIV,2730,Bright neutral,D,S-,14BA
+C,-1,Lear LCM-BD4.2,1030,Bright V-shape,D+,B+,4BA 2DD
+C,-1,Kumitate KL-Sanka B,1250,Bright U-shape,D+,B+,3BA
+C,-1,Kumitate KL-Sanka K,1250,Bright U-shape,D+,B+,3BA
+C,-1,JH Roxanne,1745,Warm,D+,B+,12BA
+C,-1,Moondrop Quarks,15,Warm V-shape,C+,C,DD
+C,-1,"Venture Electronics Bonus In-Ears ""BIE""",20,V-shaped,C+,C,DD
+C,-1,Tanchjim Ola,40,Neutral,C+,C,DD
+C,-1,BLON BL05,43,Bright V-shape,C,C+,DD
+C,-1,Tin Audio T2 Pro,50,Bright neutral,C,C+,2DD
+C,-1,Moondrop Nekocake,50,Neutral,C+,C,DD
+C,-1,TFZ 2S,50,V-shaped,C+,C,DD
+C,-1,TFZ Exclusive 1,50,V-shaped,C+,C,DD
+C,-1,TFZ Mylove,60,V-shaped,C+,C,DD
+C,-1,QoA Vesper,70,V-shaped,C,C+,1BA 1DD
+C,-1,Shozy Form 1.1,75,Warm neutral,C+,C,1BA 1DD
+C,-1,Whizzer HE01,80,V-shaped,C+,C,DD
+C,-1,FiiO FH1,90,V-shaped,C+,C,1BA 1DD
+C,-1,Monoprice Monolith M-TWE,100,V-shaped,C+,C,DD
+C,-1,TFZ 4S,100,V-shaped,C+,C,DD
+C,-1,TFZ Exclusive 5,100,V-shaped,C+,C,DD
+C,-1,Nuarl NT100,100,V-shaped,C+,C,DD
+C,-1,Shuoer D13,120,V-shaped,C,C+,DD
+C,-1,Nuarl NT110,120,V-shaped,C+,C,DD
+C,-1,VSonic VS7,120,Warm,C+,C,DD
+C,-1,BGVP DMG,140,Bassy,C+,C,4BA 1DD
+C,-1,QoA Pink Lady,150,V-shaped,C,C+,2BA 1DD
+C,-1,Focal Sphear,150,Mild V-shape,C+,C,DD
+C,-1,Sony WF-XB700,150,U-shaped,C+,C,DD
+C,-1,Simgot EN700 Pro,150,V-shaped,C+,C,DD
+C,-1,Soranik BMT,180,V-shaped,C,C+,EST DD
+C,-1,Klipsch T5 True Wireless,200,Neutral with bass boost,C,C+,DD
+C,-1,Shozy Form 1.4,200,Warm neutral,C+,C,4BA 1DD
+C,-1,Audio Technica ATH-SPORT7TW,200,U-shaped,C+,C,DD
+C,-1,VSonic Ares,200,V-shaped,C+,C,DD
+C,-1,BQEYZ Autumn,200,Variable,C+,C,DD
+C,-1,Symphonium Audio Aurora,220,Warm neutral,C+,C,2BA
+C,-1,iBasso IT03w,260,Bright V-shape,C+,C,2BA 1DD
+C,-1,Shanling ME500,270,V-shaped,C,C+,2BA 1DD
+C,-1,Meccaudio ME20,300,Neutral,C,C+,2BA 1DD
+C,-1,Final Audio F4100,350,Balanced,C,C+,BA
+C,-1,Simgot EK3,350,Bright neutral,C,C+,2BA 1DD
+C,-1,NocturnaL Gorham,350,V-shaped,C+,C,2BA
+C,-1,Shozy B2,450,Warm,C+,C,DD
+C,-1,64 Audio A2e,500,V-shaped,C,C+,2BA
+C,-1,qdc 3SH,500,Warm,C,C+,3BA
+C,-1,NocturnaL Avalon,500,Warm V-shape,C,C+,3BA
+C,-1,Clear Tune Monitors CT-200,500,Neutral,C+,C,2BA
+C,-1,Final Audio F7200,550,Balanced,C,C+,BA
+C,-1,Custom Art FIBAE 2,550,Warm,C,C+,2BA
+C,-1,Eartech Quad Driver,600,Warm,C,C+,4BA
+C,-1,Horluchs HL4300,700,Mild V-shape,C,C+,3BA
+C,-1,Final Audio Heaven 7,700,Neutral,C,C+,BA
+C,-1,Final Audio B1,750,V-shaped,C,C+,1BA 1DD
+C,-1,FitEar F/A111,780,Warm neutral,C,C+,BA
+C,-1,Campfire Jupiter,800,Balanced,C,C+,4BA
+C,-1,Shozy Black Hole,800,Bright,C,C+,DD
+C,-1,Kinera Odin,800,Neutral,C+,C,8BA
+C,-1,Kumitate KL-Meteo,850,V-shaped,C,C+,4BA
+C,-1,Custom Art FIBAE 4,900,Warm,C,C+,4BA
+C,-1,NocturnaL Eden,950,Neutral,C,C+,5BA
+C,-1,Fatfreq 20.8,950,Warm,C,C+,8BA
+C,-1,Kumitate KL-Sanka,1200,Warm V-shape,C,C+,3BA
+C,-1,LH Stella,1300,Warm U-shaped,C,C+,2BA 1DD
+C,-1,Custom Art Harmony 8.2,1300,Warm,C+,C,8BA
+C,-1,HUM Pristine Reference,1400,Warm,C,C+,2BA
+C,-1,AAW Halycon,1450,Variable,C,C+,4EST 2BA 1DD
+C,-1,BGVP ES12,1500,Variable,C,C+,4EST 8BA
+C,-1,FitEar Aya,1650,Warm,C,C+,BA
+C,-1,Rhapsodio Infinity Mk2,3600,Warm,C+,C,6BA
+C,-1,1Custom SA02,-1,Balanced,C,C+,2BA
+C,-1,Campfire Orion,-1,Warm V-shape,C,C+,BA
+C,-1,Final Audio Heaven S,-1,Warm V-shape,C,C+,BA
+C,-1,Final Audio LAB 1,-1,Warm,C,C+,2BA
+C,-1,Stax SR-001 Mk1 w/ CES-A1,-1,Neutral,C+,C,Electrostatic
+C,-1,Acoustune HS2000MX “SHO-笙-“,2000,Bright,D,A,DD
+C,-1,Moondrop SSR,40,Bright neutral,C-,B-,DD
+C,-1,KBEar F1,40,Warm neutral,B-,C-,BA
+C,-1,TRI x HBB Kai,80,Dark neutral,B-,C-,DD
+C,-1,INAIR M360,140,V-shaped,B-,C-,DD
+C,-1,Muse HiFi Power,200,Bright V-shape,C-,B-,Planar
+C,-1,Hifiman RE2000 Pro,350,V-shaped,C-,B-,DD
+C,-1,Fearless S10 Genie,700,Neutral,C-,B-,10BA
+C,-1,Fearless HyperS 12BA,900,Neutral,C-,B-,12BA
+C,-1,Stealthsonics U9,1100,Neutral,C-,B-,8BA 1DD
+C,-1,Fender Ten 5,1200,Neutral with bass boost,B-,C-,5BA 1DD
+C,-1,Campfire Vega,1300,V-shaped,C-,B-,DD
+C,-1,JH Audio Angie,1400,Warm V-shape,C-,B-,8BA
+C,-1,Empire Ears Phantom,1800,Warm,C-,B-,5BA
+C,-1,JH Audio x L-Acoustics Contour XO,1950,Variable,C-,B-,10BA
+C,-1,Hifiman RE2000,2000,Mild V-shape,C-,B-,DD
+C,-1,JH Audio Layla,2725,Variable,C-,B-,12BA
+C,-1,FitEar Private C435,-1,Dark,C-,B-,5BA
+C,-1,VSonic GR01,-1,Neutral,B-,C-,2BA
+C,-1,Acoustune HS1503,400,V-shaped,D+,B,DD
+C,-1,QKZ AK6,10,V-shaped,C,C,DD
+C,-1,QKZ VK4,20,V-shaped,C,C,DD
+C,-1,BLON BL01,23,V-shaped,C,C,DD
+C,-1,Tiandirenhe TD1,25,V-shaped,C,C,DD
+C,-1,TFZ Ti Galaxy,30,V-shaped,C,C,DD
+C,-1,Soundmagic E11,40,Mild U-shape,C,C,DD
+C,-1,BLON BL-Max,40,V-shaped,C,C,2DD
+C,-1,Advanced S2000,50,V-shaped,C,C,DD
+C,-1,BGVP DS1 Pro,50,V-shaped,C,C,2BA 1DD
+C,-1,Satolex Tubomi DH298-A1Bk,50,V-shaped,C,C,DD
+C,-1,Tripowin TC-01,50,V-shaped,C,C,DD
+C,-1,TRN V90,50,V-shaped,C,C,4BA 1DD
+C,-1,Zero Audio Carbo Basso ZH-DX210-CB,50,V-shaped,C,C,DD
+C,-1,Edifier TWS1,50,V-shaped,C,C,DD
+C,-1,MEE M6 Pro,60,V-shaped,C,C,DD
+C,-1,TFZ Exclusive 3,60,V-shaped,C,C,DD
+C,-1,ikko OH2,60,Balanced,C,C,DD
+C,-1,Meze 12 Classics,70,V-shaped,C,C,DD
+C,-1,FiiO FD1,70,V-shaped,C,C,DD
+C,-1,KBEar TRI I4,70,V-shaped,C,C,1BA 1DD
+C,-1,Whizzer A15,70,Warm U-shape,C,C,DD
+C,-1,CatEar Mia,80,Bassy,C,C,DD
+C,-1,FiiO FH1S,80,V-shaped,C,C,1BA 1DD
+C,-1,TFZ 5S,80,V-shaped,C,C,DD
+C,-1,BLON BL-A8 Prometheus,85,Warm V-shape,C,C,DD
+C,-1,iBasso IT00,90,V-shaped,C,C,DD
+C,-1,Simgot EN700,100,Bright V-shape,C,C,DD
+C,-1,RHA MA750,100,Mild V-shape,C,C,DD
+C,-1,Massdrop x NuForce EDC3,100,Neutral,C,C,3BA
+C,-1,RHA TrueConnect,100,U-shaped,C,C,DD
+C,-1,Satolex Tumuri DH303-A1,100,V-shaped,C,C,DD
+C,-1,TFZ King,100,V-shaped,C,C,DD
+C,-1,Zero Audio Duoza ZH-DWX10,100,Warm V-shape,C,C,2DD
+C,-1,iBasso IT01,110,V-shaped,C,C,DD
+C,-1,Shuoer H27,110,V-shaped,C,C,2BA 1DD
+C,-1,Tipsy Dunmer,120,Bassy,C,C,DD
+C,-1,iBasso IT01X,120,V-shaped,C,C,DD
+C,-1,Satolex Tubomi DH302-A1Bs,130,V-shaped,C,C,DD
+C,-1,Tin HiFi T5,130,V-shaped,C,C,DD
+C,-1,Kinera IDUN,140,Warm neutral,C,C,2BA 1DD
+C,-1,LG Tone Free,150,U-shaped,C,C,DD
+C,-1,TFZ Tequila 1,150,V-shaped,C,C,2DD
+C,-1,BGVP DMS,150,Warm,C,C,6BA 1DD
+C,-1,Fatfreq Musician,150,Warm neutral,C,C,BA
+C,-1,Nuarl NT01,150,Warm V-shape,C,C,DD
+C,-1,Symphonium Mirage,170,Warm,C,C,BA
+C,-1,AVIOT TE-D01b/TE-D01d,177,V-shaped,C,C,DD
+C,-1,Fearless Start,180,V-shaped,C,C,DD
+C,-1,Dynamic Motion DM200H,180,V-shaped,C,C,1BA 1DD
+C,-1,TFZ Secret Garden,200,V-shaped,C,C,2DD
+C,-1,Tipsy Dunmer Pro,200,Bright V-shape,C,C,2BA 1DD
+C,-1,Audio Technica ATH-ANC300TW,200,V-shaped,C,C,DD
+C,-1,Peacock Audio P1,200,V-shaped,C,C,DD
+C,-1,RHA T20i,200,V-shaped,C,C,DD
+C,-1,Satolex Tubomi DH310-A1SS,200,V-shaped,C,C,DD
+C,-1,TFZ Balance 2M,200,V-shaped,C,C,DD
+C,-1,Campfire Satsuma,200,Warm,C,C,BA
+C,-1,Campfire Comet,200,Warm,C,C,BA
+C,-1,NF Audio NF2u,200,Warm neutral,C,C,2BA
+C,-1,MEE Pinnacle P1,200,Warm V-shape,C,C,DD
+C,-1,Unknown Custom UCD-2,220,Warm V-shape,C,C,2BA
+C,-1,Technics EAH-AZ70W,250,U-shaped,C,C,DD
+C,-1,Stealthsonics U2,250,V-shaped,C,C,1BA 1DD
+C,-1,Creative Aurvana Trio,250,Warm,C,C,3BA
+C,-1,AAW A3H (2019),290,V-shaped,C,C,2BA 1DD
+C,-1,TRN BAX,300,V-shaped,C,C,1EST 1BA 1DD
+C,-1,Audiosense T800,300,V-shaped,C,C,8BA
+C,-1,Sony XBA-300,300,V-shaped,C,C,3BA
+C,-1,Oriveti New Primacy,300,Warm neutral,C,C,2BA 1DD
+C,-1,Kinera Hodur,300,V-shaped,C,C,1EST 1BA 1DD
+C,-1,Rose BR5 Mk2,305,Neutral,C,C,5BA
+C,-1,Alclair Versa,350,Warm V-shape,C,C,2BA
+C,-1,JVC HA-FW01,380,Dark,C,C,DD
+C,-1,Fearless Tequila,400,Neutral,C,C,6BA 1DD
+C,-1,QoA Mojito,400,Neutral,C,C,6BA
+C,-1,Audio Technica ATH-E70,400,Neutral with bass boost,C,C,3BA
+C,-1,Elysian Eros,400,Warm,C,C,2BA
+C,-1,Eartech Triple Driver,450,Warm,C,C,3BA
+C,-1,Azla 01R Mk2,500,V-shaped,C,C,DD
+C,-1,Noble Savanna,500,Bright neutral,C,C,4BA
+C,-1,Jomo x Pantheon Percussion P3,500,V-shaped,C,C,2BA 1DD
+C,-1,JH Michelle,500,Warm,C,C,3BA
+C,-1,Campfire Lyra II,700,V-shaped,C,C,DD
+C,-1,Empire Ears Bravado Mk2,800,Bassy,C,C,2EST 1BA 1DD
+C,-1,ACS Encore,1130,Neutral,C,C,3BA
+C,-1,FitEar Air 2/Titan,1700,Warm V-shape,C,C,1BA 1DD
+C,-1,Fostex TE100,1800,Warm neutral,C,C,1BA 1DD
+C,-1,FitEar Air 2,2050,Warm V-shape,C,C,1BA 1DD
+C,-1,Noble Sultan,2900,V-shaped,C,C,2EST 4BA 1DD
+C,-1,Onkyo E900,-1,V-shaped,C,C,2BA 1DD
+C,-1,Kinera IDUN Deluxe,-1,Neutral,C,C,2BA 1DD
+C,-1,Atomic Floyd SuperDarts,-1,U-shaped,C,C,1BA 1DD
+C,-1,"Ultimate Ears Triple Fi 10 ""TF10""",-1,Warm,C,C,3BA
+C,-1,Custom Art Ei.3,-1,Mild V-shape,C,C,3BA
+C,-1,AAW W100,-1,V-shaped,C,C,DD
+C,-1,Earsonics SM3,-1,Warm,C,C,3BA
+C,-1,Sony XBA-40,-1,V-shaped,C,C,4BA
+C-,-1,Tin HiFI T1,36,Warm,C+,C-,DD
+C-,-1,Advanced M4,40,V-shaped,C+,C-,DD
+C-,-1,KBEar Neon,50,Neutral,C+,C-,BA
+C-,-1,Lypertek PurePlay Z7,90,Balanced,C-,C+,2BA 1DD
+C-,-1,Alpha&Delta D6,95,Bright,C+,C-,DD
+C-,-1,AZLA Orta,130,V-shaped,C-,C+,DD
+C-,-1,Gold Planar GL20,150,Warm,D-,A+,Planar
+C-,-1,Tin HiFi P1,170,Warm neutral,C+,C-,Planar
+C-,-1,Jabra Elite 75t,180,U-shaped,C-,C+,DD
+C-,-1,BGVP DM6,200,Warm V-shape,C-,C+,5BA
+C-,-1,FiiO FA7,300,Warm,C-,C+,4BA
+C-,-1,Earsonics ES3,400,U-shaped,C-,C+,3BA
+C-,-1,Audio Technica ATH-IM03,450,Warm V-shape,C-,C+,3BA
+C-,-1,HUM TT,500,Neutral,C+,C-,2BA
+C-,-1,InEar StageDiver SD-4,600,Warm V-shape,C-,C+,4BA
+C-,-1,Ultimate Ears UE5 Pro,600,Warm,C+,C-,2BA
+C-,-1,Shozy Black Hole Mini,650,Warm V-shape,C-,C+,DD
+C-,-1,Final Audio Heaven 8,700,Warm,C-,C+,BA
+C-,-1,Noble Dulce Bass,700,Warm V-shape,C-,C+,5BA
+C-,-1,Eternal Melody EM-5H,750,Dark,C-,C+,5BA
+C-,-1,FitEar EST,1300,Warm,C+,C-,1EST 1BA
+C-,-1,Tralucent 1 Plus 2.3,2100,Warm V-shape,C-,C+,2BA 1DD
+C-,-1,MMR Thummim,4500,V-shaped,C-,C+,4EST 4BA 1DD
+C-,-1,VSonic VC02,-1,Warm U-shape,C-,C+,DD
+C-,-1,Acoustune HS1003,-1,V-shaped,C-,C+,DD
+C-,-1,Final Audio FI-DO6SS ANT20,-1,Warm,C-,C+,BA
+C-,-1,Eternal Melody EM-6W,-1,Warm,C-,C+,6BA
+C-,-1,Westone W80,1500,Warm neutral,D,B+,8BA
+C-,-1,Tipsy Aurora,80,Warm neutral,B-,D+,BA
+C-,-1,Meze Rai Solo,200,V-shaped,D+,B-,DD
+C-,-1,Custom Art FIBAE 3,625,Mid-centric,D+,B-,3BA
+C-,-1,Earsonics Velvet,850,U-shaped,D+,B-,3BA 
+C-,-1,FitEar Private 223,1030,Bright,D+,B-,3BA
+C-,-1,FitEar Private 222,1050,Bright V-shape,D+,B-,2BA
+C-,-1,Dita Truth Brass,-1,Warm V-shape,D+,B-,DD
+C-,-1,Acoustune HS1001,-1,V-shaped,D+,B-,DD
+C-,-1,JH Audio Lola,1600,Variable,D,B,6BA 2DD
+C-,-1,EarWerkz Legend Omega,-1,Warm,D,B,8BA
+C-,-1,QKZ ZXN,10,V-shaped,C,C-,DD
+C-,-1,QKZ ZXD,20,V-shaped,C,C-,DD
+C-,-1,Kinera SIF,30,V-shaped,C-,C,DD
+C-,-1,Qudelix Qx-over,30,Bassy,C,C-,2DD
+C-,-1,Tin HiFi T1 Plus,30,V-shaped,C,C-,DD
+C-,-1,Kinera BD005 Pro,60,Mild U-shape,C,C-,1BA 1DD
+C-,-1,TRN BA5,70,V-shaped,C,C-,5BA
+C-,-1,Advanced M3,80,Bassy,C,C-,DD
+C-,-1,Heygears Anora,80,Neutral with laid-back treble,C,C-,BA
+C-,-1,BGVP Q2,100,Bright neutral,C,C-,2BA
+C-,-1,Sennheiser IE40 Pro,100,Neutral,C,C-,DD
+C-,-1,Grado iGe,100,U-shaped,C,C-,DD
+C-,-1,Tin HiFi T2000,110,V-shaped,C,C-,2DD
+C-,-1,Shanling ME100,120,V-shaped,C-,C,DD
+C-,-1,W+G T2,130,Bright V-shape,C-,C,DD
+C-,-1,"Super Audio ""Supermeme"" 2BA+2DD",150,V-shaped,C-,C,2BA 2DD
+C-,-1,Anthem Five E2,150,Bassy,C,C-,1BA 1DD
+C-,-1,Alpha & Delta KS3,150,Mid-centric,C,C-,DD
+C-,-1,NuForce HEM1,150,Neutral,C,C-,BA
+C-,-1,Brainwavz B400,150,Neutral,C,C-,4BA
+C-,-1,AAW Nebula Two,150,U-shaped,C,C-,1BA 1DD
+C-,-1,Heartfield Acoustic Deer,170,V-shaped,C,C-,DD
+C-,-1,Shozy Rouge,180,V-shaped,C-,C,2BA 1DD
+C-,-1,Audio Technica ATH-IM01,200,Warm,C-,C,BA
+C-,-1,1More Quad Driver,200,Balanced,C,C-,3BA 1DD
+C-,-1,Fatfreq Eden,220,Balanced,C-,C,2BA
+C-,-1,Fatfreq Musician Plus,220,Warm,C-,C,2BA
+C-,-1,Fatfreq Reference Plus,220,Warm neutral,C-,C,2BA
+C-,-1,Hidizs Mermaid MS4,250,V-shaped,C-,C,3BA 1DD
+C-,-1,Zero Audio Carbo Doppio ZH-BX700,250,Neutral,C,C-,2BA
+C-,-1,Sennheiser Momentum True Wireless,300,V-shaped,C-,C,DD
+C-,-1,Grado GR8,300,Warm neutral,C-,C,DD
+C-,-1,Pioneer SE-CX9,300,Bassy,C,C-,Exciter BA
+C-,-1,JH Billie Jean,350,V-shaped,C,C-,2BA
+C-,-1,Fatfreq Musician Pro,370,Warm,C-,C,3BA
+C-,-1,Audio Technica ATH-LS300,400,Warm V-shape,C-,C,3BA
+C-,-1,Advanced M5-1D,400,V-shaped,C-,C,DD
+C-,-1,ORB CF-IEM Stella,450,Warm,C-,C,2BA
+C-,-1,Cayin YB04,500,Balanced,C-,C,4BA
+C-,-1,Campfire Nova,500,Neutral with laid-back treble,C-,C,2BA
+C-,-1,Stealthsonics U4,500,Warm,C-,C,4BA
+C-,-1,Jomo Jazz,500,Warm neutral,C-,C,2BA
+C-,-1,Kinera Norn,500,V-shaped,C-,C,4BA 1DD
+C-,-1,Shure SE535,500,Neutral,C,C-,3BA
+C-,-1,Audio Technica ATH-LS400,580,Warm V-shape,C-,C,4BA
+C-,-1,FitEar Fitear,900,Warm,C-,C,BA
+C-,-1,Jomo Salsa,1050,Warm V-shape,C-,C,4BA
+C-,-1,Campfire Atlas,1300,Bassy,C,C-,DD
+C-,-1,Campfire Solstice,1500,Warm,C-,C,5BA
+C-,-1,Yamaha EPH100,-1,V-shaped,C-,C,DD
+C-,-1,Custom Art FIBAE 1,-1,Bright,C-,C,BA
+C-,-1,VSonic VSD2S,-1,Warm V-shape,C-,C,DD
+C-,-1,VSonic VSD3S,-1,U-shaped,C-,C,DD
+C-,-1,Aurisonics Kicker,-1,V-shaped,C-,C,DD
+C-,-1,Stax SR-001 Mk2,-1,Mid-centric,C-,C,EST
+C-,-1,Heir Audio Tzar 350,-1,Bright,C-,C,2BA
+C-,-1,IMR R1 Zenith,-1,Variable,C-,C,1Piezo 1DD
+C-,-1,Eternal Melody EM-4,-1,Balanced,C-,C,4BA
+C-,-1,Eternal Melody EM-6,-1,Balanced,C-,C,6BA
+C-,-1,VSonic VSD1S,-1,Warm,C,C-,DD
+C-,-1,Fostex TE-02WP,-1,Neutral-bright,C,C-,DD
+C-,-1,1More Dual Driver,-1,Warm,C,C-,1BA 1DD
+C-,-1,Phonak PFE,-1,Warm,C,C-,2BA
+C-,-1,Razer Moray,130,Neutral,C,C-,1BA 1DD
+C-,-1,Jade Audio EA3,50,Bright V-shape,D+,C+,1BA 1DD
+C-,-1,Tin HiFi T2 Evo,60,Bright V-shape,D+,C+,DD
+C-,-1,Shuoer Singer,70,V-shaped,D+,C+,EST DD
+C-,-1,fineEars TSH-HR1000K,70,V-shaped,C+,D+,DD
+C-,-1,Shuoer Tape Pro,130,V-shaped,D+,C+,DD
+C-,-1,Eternal Melody EM-2,290,V-shaped,C+,D+,2BA
+C-,-1,HarmonicDyne P.D.1,380,U-shaped,D+,C+,1Planar 1DD
+C-,-1,Audiosense AQ7,500,Unique,D+,C+,6BA 1DD
+C-,-1,IMR R1,550,Variable,D+,C+,2DD
+C-,-1,Clear Tune Monitors CT-500 Elite,800,Balanced,D+,C+,5BA
+C-,-1,Future Sonics MG5HX,875,V-shaped,D+,C+,DD
+C-,-1,Fearless Roland,1010,Dark neutral,D+,C+,2EST 2BA 1DD
+C-,-1,Earsonics ES5,1150,Balanced,D+,C+,5BA
+C-,-1,Kumitate KL-Kanon,1250,Variable,D+,C+,4BA
+C-,-1,FiR Neon 4,2300,Bassy,D+,C+,3BA 1DD
+C-,-1,UFOEar UFO-111,200,U-shaped,D,B-,1BA 1DD
+C-,-1,FiR M2,800,V-shaped,D,B-,1BA 1DD
+C-,-1,AAW Nightingale,1000,Balanced,D,B-,Planar
+C-,-1,TRN MT1,5,V-shaped,C-,C-,DD
+C-,-1,I-INTO i8,25,Balanced,C-,C-,3DD
+C-,-1,Advanced 747,60,Bassy,C-,C-,DD
+C-,-1,Oriveti Basic,100,Bassy,C-,C-,DD
+C-,-1,WG T-One,100,V-shaped,C-,C-,DD
+C-,-1,Sennheiser Momentum In-Ear,100,V-shaped,C-,C-,DD
+C-,-1,Pai Audio DM2A,140,V-shaped,C-,C-,2BA 1DD
+C-,-1,Kinera Idun (Deluxe),140,V-shaped,C-,C-,2BA 1DD
+C-,-1,HiBy WH3,150,V-shaped,C-,C-,1BA 1DD
+C-,-1,Noble Falcon,156,V-shaped,C-,C-,DD
+C-,-1,"Whizzer A-HE03 ""Kylin""",160,Warm V-shape,C-,C-,2BA 1DD
+C-,-1,Zero Audio Carbo Singolo ZH-BS150-CS,170,Warm neutral,C-,C-,BA
+C-,-1,Fearless Crystal Pearl,200,Warm,C-,C-,2BA
+C-,-1,Shure SE425,300,Neutral,C-,C-,2BA
+C-,-1,Cardas A8,350,Balanced,C-,C-,DD
+C-,-1,Westone W20,350,Warm,C-,C-,2BA
+C-,-1,Campfire Polaris V2,500,Bassy,C-,C-,1BA 1DD
+C-,-1,Elysian Minerva,900,Warm V-shape,C-,C-,4BA
+C-,-1,Noble Django,1000,Warm,C-,C-,6BA
+C-,-1,Ultimate Ears Live,2200,Warm,C-,C-,6BA 1DD
+C-,-1,Stax SR-001 Mk1,-1,Mid-centric,C-,C-,Electrostatic
+C-,-1,Meccaudio ME-04,-1,Neutral,C-,C-,4BA
+D+,-1,Yinyoo Ash,20,V-shaped,D+,C,1BA 1DD
+D+,-1,Tripowin TP10,50,Bright V-shape,D+,C,5BA
+D+,-1,Rose Mini2,110,Warm,C,D+,2BA
+D+,-1,Shure SE315,200,Dark,D+,C,BA
+D+,-1,Tago Studio T3-02,250,Balanced,D+,C,DD
+D+,-1,Earsonics ES2,300,Mid-centric,D+,C,2BA
+D+,-1,Ocharaku Donguri Keyaki,400,Bright V-shape,D+,C,DD
+D+,-1,Ultimate Ears UE900S,400,Warm,D+,C,4BA
+D+,-1,Westone W30,400,Warm,D+,C,3BA
+D+,-1,Flicker Ear Norma,450,Dark,C,D+,4BA
+D+,-1,Ocharaku Donguri Ti Plus,500,V-shaped,D+,C,DD
+D+,-1,InEar StageDiver SD-3,600,Warm,D+,C,3BA
+D+,-1,Noble M3,600,V-shaped,D+,C,1MS 1DD
+D+,-1,Advanced M5-5D,650,Bright neutral,D+,C,4BA 1DD
+D+,-1,Custom Art FIBAE ME,800,Warm,D+,C,6BA
+D+,-1,Warbler Prelude,1100,Dark,D+,C,BA
+D+,-1,Effect Audio Axiom,1500,Bassy,D+,C,1BA 1DD
+D+,-1,Earsonics EM10/Grace,2300,Warm,D+,C,10BA
+D+,-1,FiR Krypton 5,3000,Bassy,D+,C,4BA 1DD
+D+,-1,Ocharaku Co-Donguri Shizuku,-1,V-shaped,D+,C,DD
+D+,-1,HiBy Crystal6,-1,Bright V-shape,D+,C,6BA
+D+,-1,Custom Art Pro330v2,-1,Warm,D+,C,3BA
+D+,-1,Noble Trident,400,Warm V-shape,D,C+,3BA
+D+,-1,Cayin Fantasy,800,Bright,D,C+,DD
+D+,-1,Hifiman RE1000,1000,V-shaped,D,C+,DD
+D+,-1,Audio Technica ATH-IEX1,1200,V-shaped,D,C+,2BA 2DD
+D+,-1,JH Audio Jolene,1800,Variable,D-,B-,8BA 4DD
+D+,-1,Advanced Elise,30,Bassy,D+,C-,DD
+D+,-1,Ocharaku Co-Donguri Shizuku S2,50,V-shaped,D+,C-,DD
+D+,-1,TRN TA2,50,V-shaped,D+,C-,2BA 1DD
+D+,-1,Tipsy TTROMSO,90,V-shaped,D+,C-,DD
+D+,-1,Shure SE215,100,V-shaped,C-,D+,DD
+D+,-1,1More Triple Driver,100,V-shaped,C-,D+,2BA 1DD
+D+,-1,Symphonium Audio Mirage,150,Dark,C-,D+,BA
+D+,-1,Master & Dynamic MW07 Go,200,V-shaped,D+,C-,DD
+D+,-1,Advanced GT3 Superbass,200,Balanced,C-,D+,DD
+D+,-1,Advanced GT3,200,V-shaped,C-,D+,DD
+D+,-1,Kennerton Jimo,300,Bassy,D+,C-,2DD
+D+,-1,Master & Dynamic MW07 Plus,300,V-shaped,D+,C-,DD
+D+,-1,Master & Dynamic MW07,300,V-shaped,D+,C-,DD
+D+,-1,Sennheiser IE80S,350,V-shaped,C-,D+,DD
+D+,-1,Clear Tune Monitors CT-300 Pro,600,Warm,D+,C-,3BA
+D+,-1,IMR Semper,1300,Variable,D+,C-,2EST Piezo Planar DD
+D+,-1,MUNITIO Bullet In-Ear,-1,V-shaped,C-,D+,DD
+D+,-1,Westone 4R,-1,Dark,D+,C-,4BA
+D+,-1,Venture Electronics Duke,-1,Warm,D+,C-,DD
+D+,-1,Nothing Ear (1),150,V-shaped,D,C,DD
+D+,-1,LZ A4 Pro,250,Variable,D,C,3BA 1DD
+D+,-1,Westone W40,500,Warm V-shape,D,C,4BA
+D+,-1,Audio Technica ATH-CK2000Ti,750,Bright V-shape,D,C,2DD
+D+,-1,Campfire Dorado,1000,Warm,D,C,2BA 1DD
+D+,-1,Earsonics EM32,1100,U-shaped,D,C,3BA
+D+,-1,Earsonics S-EM9,1500,Balanced,D,C,9BA
+D+,-1,FiR Xenon 6,3900,Bassy,D,C,1EST 4BA 1DD
+D+,-1,NXEars Opera,800,Warm,D-,C+,8BA
+D+,-1,1More Single Driver,40,Bright V-shape,D+,D+,DD
+D+,-1,Kinera SEED,50,Balanced,D+,D+,1BA 1DD
+D+,-1,Massdrop x MEE Planamic,150,V-shaped,D+,D+,Planar
+D+,-1,HiFi Boy OS V3,150,Warm neutral,D+,D+,2BA 1DD
+D+,-1,Jaybirds Vista,180,V-shaped,D+,D+,DD
+D+,-1,AAW ACH/Kingfisher,190,Warm,D+,D+,1Piezo 1BA 1DD
+D+,-1,Unknown Custom UCD-3,270,Warm,D+,D+,3BA
+D+,-1,Fearless S5T,330,Warm,D+,D+,5BA
+D+,-1,B&O Beoplay E8,350,Balanced,D+,D+,DD
+D+,-1,Unknown Custom Quad 2.0,390,V-shaped,D+,D+,4BA
+D+,-1,Cozoy Trio,450,Unique,D+,D+,3BA
+D+,-1,Unknown Custom Juno,640,Variable,D+,D+,6BA
+D+,-1,Westone W60,1000,Warm,D+,D+,6BA
+D+,-1,Ambient Acoustics AM7,1750,Variable,D+,D+,7BA
+D+,-1,Advanced Model X,-1,V-shaped,D+,D+,DD
+D,-1,1More Piston,15,V-shaped,C-,D,DD
+D,-1,Advanced Sleeper,20,Bassy,C-,D,DD
+D,-1,LH Verb,40,V-shaped,D,C-,DD
+D,-1,TFZ 3S,65,V-shaped,D,C-,DD
+D,-1,LZ A2 Pro,140,V-shaped,D,C-,2BA 1DD
+D,-1,Sennheiser IE500 Pro,600,Dark,D,C-,DD
+D,-1,Earsonics Blade,610,Warm,D,C-,2BA 1DD
+D,-1,RHA CL2,900,V-shaped,D,C-,Planar
+D,-1,Kojo KJB-01 “Keyagu”,910,V-shaped,D,C-,DD
+D,-1,Earsonics Stark,1540,Warm,D,C-,4BA 1DD
+D,-1,Spiral Ears SE5U,2000,Dark,D,C-,5BA
+D,-1,MUNITIO Billets,-1,Bassy,D,C-,DD
+D,-1,Shozy x AAW Hibiki SE,-1,V-shaped,D,C-,DD
+D,-1,Aroma Shock,-1,V-shaped,D,C-,2EST 2BA
+D,-1,Astrotec Delphinus 5,500,Balanced,D-,C,5BA
+D,-1,Fender FXA9,1300,Dark,D-,C,6BA
+D,-1,FAAEAL Hibiscus,40,Balanced,D,D+,DD
+D,-1,BGVP DN3,75,V-shaped,D+,D,1BA 1DD
+D,-1,BGVP Zero,80,Warm,D,D+,DD
+D,-1,Fidue A71,80,Bassy,D+,D,2DD
+D,-1,Audio Technica ATH-CK3TW,100,V-shaped,D,D+,DD
+D,-1,1More Stylish,100,Bassy,D+,D,2DD
+D,-1,Fearless Crystal Ball,200,Warm V-shape,D,D+,2BA
+D,-1,Radius HP-TWF41,330,Warm,D+,D,1Piezo 1DD
+D,-1,Jomo Haka,365,Dark,D+,D,BA
+D,-1,Audiofly AF160,430,Dark,D,D+,3BA
+D,-1,NXEars Basso,500,Warm V-shape,D,D+,4BA
+D,-1,NuForce Primo 8,500,Dark,D+,D,4BA
+D,-1,Jomo PLB,510,Dark,D+,D,3BA
+D,-1,Westone W50,800,Warm,D,D+,5BA
+D,-1,Effect Audio Symphony,890,Warm,D,D+,3BA
+D,-1,Origami Audio Silver,900,Warm,D+,D,DD
+D,-1,Campfire Dorado (2020),1100,V-shaped,D,D+,1BA 1DD
+D,-1,Campfire Equinox,1500,Bassy,D,D+,DD
+D,-1,Madoo Type 711,1600,V-shaped,D+,D,3Planar 2BA
+D,-1,Rhapsodio Zombie,1800,Bassy,D,D+,8BA 1DD
+D,-1,Sound Linear Fitz 10 Flat,2200,Balanced,D,D+,10BA
+D,-1,Ultimate Ears Super.Fi 5 Extra Bass (SF5EB),-1,Bassy,D,D+,1BA 1DD
+D,-1,Sound Linear Fitz 3X,-1,Balanced,D,D+,3BA
+D,-1,Ambient Acoustics AM24,-1,Balanced,D,D+,24BA
+D,-1,AAW A2H-Pro V2,220,Dark,C-,D-,1BA 1DD
+D,-1,oBravo Cupid,270,V-shaped,D-,C-,Planar DD
+D,-1,Dethonray Tender I,640,Balanced,D-,C-,Planar
+D,-1,Kinera BD005,30,Bassy,D,D,1BA 1DD
+D,-1,Future Sonics G10,220,V-shaped,D,D,DD
+D,-1,Westone Pro X50,650,Dark,D,D,5BA
+D,-1,Sennheiser IE80,-1,V-shaped,D,D,DD
+D-,-1,Shozy x AAW Hibiki,60,Bright,D+,D-,DD
+D-,-1,Raycon E25,80,V-shaped,D-,D+,DD
+D-,-1,RHA CL750,100,Bright,D-,D+,DD
+D-,-1,Sony WF-SP800N,220,Bassy,D-,D+,DD
+D-,-1,ddHiFi Janus,250,Mid-centric,D-,D+,DD
+D-,-1,Nuforce HEM4,330,Warm,D+,D-,2BA
+D-,-1,Nuforce HEM6,450,Warm,D+,D-,3BA
+D-,-1,Earsonics SM64v2,500,Warm,D-,D+,3BA
+D-,-1,Westone UM Pro 50,750,Dark,D-,D+,5BA
+D-,-1,Campfire Vega (2020),900,Bassy,D+,D-,DD
+D-,-1,oBravo Ra 21 C,7000,Unique,D-,D+,1AMT 1DD
+D-,-1,Ambient Acoustics AM16,-1,Balanced,D-,D+,16BA
+D-,-1,Audio Technica ATH-LS50,60,Bassy,D-,D,2DD
+D-,-1,Campfire Honeydew,250,Bassy,D-,D,DD
+D-,-1,Westone UM Pro 20,300,Warm V-shape,D-,D,2BA
+D-,-1,Westone UM Pro 30,500,Warm V-shape,D-,D,3BA
+D-,-1,Ocharaku Flat-4 Kaede Type 2,750,Bright,D-,D,2DD
+D-,-1,Shozy Elsa,750,Warm,D-,D,5BA
+D-,-1,Unique Melody ME1,760,Warm,D-,D,Planar
+D-,-1,Ocharaku Flat-4 Akakeyaki,800,Bright,D-,D,2DD
+D-,-1,Ocharaku Flat-4 Akazakura,800,Bright V-shape,D-,D,2DD
+D-,-1,Ocharaku Flat-4 Ti Plus,1000,Bright V-shape,D-,D,2DD
+D-,-1,Fearless ACME8,1100,Bassy,D-,D,8BA
+D-,-1,Ocharaku Flat-4 Kaede Type 1,-1,Bright V-shape,D-,D,2DD
+D-,-1,Seahf AWK-009,15,Bright,D-,D-,DD
+D-,-1,TFZ 1S,40,V-shaped,D-,D-,DD
+D-,-1,Kinera YH263,70,Bassy,D-,D-,DD
+D-,-1,Westone UM Pro 10,150,Dark,D-,D-,BA
+D-,-1,Audio Technica ATH-CKS5TW,150,Dark,D-,D-,DD
+D-,-1,Audio Technica ATH-CKR7TW,250,Bright,D-,D-,DD
+D-,-1,Westone W10,250,Dark,D-,D-,BA
+D-,-1,Effect Audio King Arthur,7000,Dark,D-,D-,16BA
+E,-1,RHA CL1,280,Bright,E,B,DD
+E,-1,Hifiman RE800,700,Bright,E,B,DD
+E,-1,Empire Ears EVR Mk2,950,Neutral,E,B-,2EST 3BA
+E,-1,Unique Melody 3DD-Ti,700,Bright,E,C+,3DD
+E,-1,Final Audio LAB 2,7400,Unique,E,C,DD
+E,-1,Kinera H3,100,V-shaped,E,C-,2BA 1DD
+E,-1,Hifiman TWS600,200,Mid-centric,E,C-,DD
+E,-1,Campfire IO,300,Balanced,E,C-,2BA
+E,-1,Final Audio Adagio 3,60,V-shaped,E,D,DD
+E,-1,Shozy Ceres,180,Warm,E,D,1BA 1DD
+E,-1,Astrotec Volans,330,Warm,D,E,DD
+E,-1,JH Audio Diana,700,Dark,E,D,3BA
+E,-1,Sensaphonics 2X-S,750,Bright neutral,E,D,2BA
+E,-1,Sensaphonics 2MAX,850,Bright neutral,E,D,2BA
+E,-1,Sensaphonics 3MAX,1050,Warm,E,D,3BA
+E,-1,Fender Thirteen 6,1800,Dark,E,D,6BA 1DD
+E,-1,oBravo Ra C-Cu,10000,Unique,E,D,1AMT 1DD
+E,-1,AAW A2H Pro V1,-1,Dark,D,E,1BA 1DD
+E,-1,Geek Wold GK3,20,Dark,E,D-,3DD
+E,-1,Shozy x AAW Pola,800,Dark,E,D-,2EST 1DD
+E,-1,Fischer Omega Spark,60,Bright,E,E,DD
+E,-1,Sendiy M1221,200,V-shaped,E,E,1BA 1DD
+E,-1,LEAR NatroSound NS-U1,250,Variable,E,E,2DD
+E,-1,VE Monk IE Smalls,-1,Dark,E,E,DD
+F,-1,VE Monk IE Biggie,-1,Dark,F,E,DD
+F,-1,Oppo MH130,14,Complete failure,F,F,DD
+F,-1,Delta Air complimentary earphones,0,Complete failure,F,F,DD
+F,-1,SIA complimentary earphones,0,Dark,F,F,DD

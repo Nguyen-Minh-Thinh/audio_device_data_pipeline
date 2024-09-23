@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 import pandas as pd
 script_path = pathlib.Path(__file__).parent.resolve()
 config = dotenv_values(f'{script_path.parent.parent}/.env')
-print(config)
+# print(config)
 try:
     # Initialize client 
     client = clickhouse_connect.get_client(host='host.docker.internal', username='default', port=8123)
@@ -14,9 +14,9 @@ except Exception as e:
     print(f"Error when connecting to clickhouse: {e}")
 
 # Initialize client for using s3
-access_key = 'vB6i7ypeoFkJ4zt7vxTi'
-secret_key = 'alrHll6vHuPh8ap0VWYYGbwdRUafnpqlh8eSTdJ9'
-bucket_name = 'audio-device-data'
+access_key = config['S3_ACCESS_KEY']
+secret_key = config['S3_SECRET_KEY']
+bucket_name = config['S3_BUCKET_NAME']
 endpoint_url = 'http://minio-minio-1:9000'
 
 s3 = boto3.client('s3',

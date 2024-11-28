@@ -48,13 +48,13 @@ def clean_data(df):
             df.at[index, 'price_msrp'] = -1
 
         # Replacing ? device prices with -1
-        elif re.search('\\?', str(row['price_msrp'])):
+        if re.search('\\?', str(row['price_msrp'])):
             df.at[index, 'price_msrp'] = -1
-        elif row['driver_type'] == '?':
+        if row['driver_type'] == '?':
             df.at[index, 'driver_type'] = ''
         # Some prices have models embedded to them, this replaces with only price
         # Ex: 3000(HE1000) gives 3000
-        elif re.search('[a-zA-Z]', str(row['price_msrp'])):
+        if re.search('[a-zA-Z]', str(row['price_msrp'])):
             price_only = list(filter(None, re.split(r'(\d+)', str(row['price_msrp']))))[0]
             df.at[index, 'price_msrp'] = price_only
 

@@ -3,3 +3,5 @@ venv
 test.ipynb
 minio/.env
 .env
+.$Diagram.drawio.bkp
+Diagram.drawio

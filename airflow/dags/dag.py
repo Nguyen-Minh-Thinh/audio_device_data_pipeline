@@ -28,8 +28,5 @@ with DAG(
         task_id='upload_silver_level_to_mysql',
         bash_command='python /opt/airflow/tasks/work_with_mysql/load_data_to_mysql.py'
     )
-    upload_silver_level_to_clickhouse = BashOperator(
-        task_id='upload_silver_level_to_clickhouse',
-        bash_command='python /opt/airflow/tasks/work_with_clickhouse/upload_data_to_clickhouse.py'
-    )
-crawl_data >> upload_bronze_level_to_s3 >> clean_bronze_level_data >> upload_silver_level_to_s3 >> [upload_silver_level_to_clickhouse, upload_silver_level_to_mysql]
+
+crawl_data >> upload_bronze_level_to_s3 >> clean_bronze_level_data >> upload_silver_level_to_s3 >> upload_silver_level_to_mysql
